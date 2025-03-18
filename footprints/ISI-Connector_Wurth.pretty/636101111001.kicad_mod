@@ -1,0 +1,317 @@
+(footprint "636101111001"
+	(version 20241129)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "WR-UMRF PCB Receptacle SMT with 3 Pads ")
+	(property "Reference" "REF**"
+		(at 0.039915 -3.411835 0)
+		(layer "F.SilkS")
+		(uuid "d1dc3386-cb30-46e6-abaa-c63f5e4ac198")
+		(effects
+			(font
+				(size 0.801331 0.801331)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "636101111001"
+		(at 6.64582 3.09284 0)
+		(layer "F.Fab")
+		(uuid "6b2d2695-e564-402e-a74c-4a5d1433c676")
+		(effects
+			(font
+				(size 0.80022 0.80022)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d71baf0-690c-4b7f-8037-2b30319dd830")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e015916-61f8-4b59-9b3e-44851f74debc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3e4dabb7-8d63-4c6b-a38e-542570b02eb2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.42 -1.3)
+		(end -1.42 -0.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "473520d7-aeec-4903-8c0a-ae122b1f3bf3")
+	)
+	(fp_line
+		(start -1.42 0.75)
+		(end -1.42 1.3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2995a670-f846-4b77-b05d-194750a32e1b")
+	)
+	(fp_line
+		(start 1.42 -1.3)
+		(end 1.42 1.3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aba3babf-3470-4e9b-99bc-b0d2c1a715a4")
+	)
+	(fp_circle
+		(center -2.5 0)
+		(end -2.425 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "01b8f43c-e07c-47d3-bcc0-5304bb154e01")
+	)
+	(fp_line
+		(start -2.3 -2.25)
+		(end 1.55 -2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f572fefa-a1fa-47b1-b293-b0c97858eb4b")
+	)
+	(fp_line
+		(start -2.3 2.25)
+		(end -2.3 -2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4d48101c-1667-4b07-a104-daedbbe19bf6")
+	)
+	(fp_line
+		(start 1.55 -2.25)
+		(end 1.55 2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7c454700-f0d6-486a-8d80-f33ac8c0a817")
+	)
+	(fp_line
+		(start 1.55 2.25)
+		(end -2.3 2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "602300da-ccf3-4ddf-856b-774a758c9631")
+	)
+	(fp_line
+		(start -1.3 -1.3)
+		(end -1.3 1.3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "05bf16a9-9191-43ba-b8f0-abfb14dc6e74")
+	)
+	(fp_line
+		(start 1.3 -1.3)
+		(end -1.3 -1.3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bd6b91da-9df6-4a83-84ed-fa873ad47621")
+	)
+	(fp_line
+		(start 1.3 -1.3)
+		(end 1.3 1.3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c266d299-9e2a-4299-bb4c-f498aecfb333")
+	)
+	(fp_line
+		(start 1.3 1.3)
+		(end -1.3 1.3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fb097bab-2574-411e-9e95-72ee6811f7e0")
+	)
+	(fp_circle
+		(center -2.5 0)
+		(end -2.425 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "97789d12-3daa-4c34-8bb8-9b78591af4c1")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.3 0)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "4c42d1a0-2b91-4e41-a7f3-f3398c6e60da")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "486db363-7bd4-4946-b82a-d49656e52a90")
+	)
+	(pad "1" smd rect
+		(at -1.525 0)
+		(size 1.05 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "bec16f31-b64c-40ce-a763-0d0872cefda7")
+	)
+	(pad "2" smd rect
+		(at 0 -1.475)
+		(size 2.2 1.05)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "066183f1-6070-476e-a23d-e3a7d6b12199")
+	)
+	(pad "3" smd rect
+		(at 0 1.475)
+		(size 2.2 1.05)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "48a41fe3-76a4-49e9-b850-7ff23d749ab8")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "ba7ec4a6-b659-417e-bafc-491848c63aca")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.01)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy -1 -0.95) (xy 1.3 -0.95) (xy 1.3 0.95) (xy -1 0.95)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "*.Cu")
+		(uuid "d46bbc72-5cf1-4cc0-a518-18201ce2a23b")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.01)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias not_allowed)
+			(pads allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy -1 -0.95) (xy 1.3 -0.95) (xy 1.3 0.95) (xy -1 0.95)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "C:/Users/malam/Documents/6 - PROJET/13 - MODULES DOMOTIQUES/3 - ELECTRONIQUE & ELECTRIQUE/31 - KICAD/COMPOSANT CAD/U.FL-R-SMT_10_/U.FL-R-SMT_10_.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

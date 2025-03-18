@@ -1,0 +1,260 @@
+(footprint "61201021621"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "WR-BHD 2.54mm Male Box Header, 10 Pins IDC connecteur")
+	(property "Reference" "REF**"
+		(at 0.635 -6.185 0)
+		(layer "F.SilkS")
+		(uuid "aa12ee75-c4ca-4e4a-8c01-bce32a19686c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "61201021621"
+		(at 4.445 5.715 0)
+		(layer "F.Fab")
+		(uuid "d88bf57c-b011-42ef-8ae0-48861ab408f1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a790ec24-f649-40be-8f8a-1b7eff38d020")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9ac0c778-ffe9-49de-890e-73e6733d13ab")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2ec7d1f8-4948-476c-9b65-cd7a29069abd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -10.18 -4.55)
+		(end 10.18 -4.55)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b72a5a44-0b18-4929-b7ff-989f5148d49a")
+	)
+	(fp_line
+		(start -10.18 4.55)
+		(end -10.18 -4.55)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "37e4a211-75d0-4afb-9820-609cca1cf66c")
+	)
+	(fp_line
+		(start 10.18 -4.55)
+		(end 10.18 4.55)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "18a42723-fa73-44a8-8673-edf31f716ce1")
+	)
+	(fp_line
+		(start 10.18 4.55)
+		(end -10.18 4.55)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "68ca72f2-0b4e-4e20-a631-6281b4fa6bce")
+	)
+	(fp_text user "1"
+		(at -6.985 1.905 0)
+		(layer "F.SilkS")
+		(uuid "67dd9c0d-3e51-4d82-a9a7-207aca156c57")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "1"
+		(at -6.985 1.905 0)
+		(layer "F.Fab")
+		(uuid "5be7288b-f0c0-4d71-b371-4cc1039d4cf3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "10"
+		(at 7 -1 0)
+		(layer "F.Fab")
+		(uuid "6fdb3c3d-26c7-4dbb-a855-43250553b86e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at -5.08 1.27)
+		(size 1.65 2.3)
+		(drill 1.1
+			(offset 0 0.325)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "db2ff473-2ac5-4e56-a585-ee26baa7e1ab")
+	)
+	(pad "2" thru_hole oval
+		(at -5.08 -1.27)
+		(size 1.65 2.3)
+		(drill 1.1
+			(offset 0 -0.325)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "12f9a642-3490-4e2b-8e03-1d69ce6ba75e")
+	)
+	(pad "3" thru_hole oval
+		(at -2.54 1.27)
+		(size 1.65 2.3)
+		(drill 1.1
+			(offset 0 0.325)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "26729cc6-ffbf-4e3f-aebc-bd7832dfaeb3")
+	)
+	(pad "4" thru_hole oval
+		(at -2.54 -1.27)
+		(size 1.65 2.3)
+		(drill 1.1
+			(offset 0 -0.325)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "2a445d04-ca58-4dd1-98a9-69f4a6e3028f")
+	)
+	(pad "5" thru_hole oval
+		(at 0 1.27)
+		(size 1.65 2.3)
+		(drill 1.1
+			(offset 0 0.325)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "959de147-40f4-43ac-bc99-c6e9596ce4f1")
+	)
+	(pad "6" thru_hole oval
+		(at 0 -1.27)
+		(size 1.65 2.3)
+		(drill 1.1
+			(offset 0 -0.325)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "8792ef9a-eb15-4821-9542-e1304bb46b4a")
+	)
+	(pad "7" thru_hole oval
+		(at 2.54 1.27)
+		(size 1.65 2.3)
+		(drill 1.1
+			(offset 0 0.325)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "8a1cd0e1-7a5e-4698-aa34-3fa5cafdfa89")
+	)
+	(pad "8" thru_hole oval
+		(at 2.54 -1.27)
+		(size 1.65 2.3)
+		(drill 1.1
+			(offset 0 -0.325)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "11419844-71b1-485a-8675-29ab74be0fc1")
+	)
+	(pad "9" thru_hole oval
+		(at 5.08 1.27)
+		(size 1.65 2.3)
+		(drill 1.1
+			(offset 0 0.325)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "35e68d5c-9b34-4065-932d-ac1e14ba4d01")
+	)
+	(pad "10" thru_hole oval
+		(at 5.08 -1.27)
+		(size 1.65 2.3)
+		(drill 1.1
+			(offset 0 -0.325)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "7d861af9-9bd4-4c0b-9a68-9d01f7989edc")
+	)
+	(model "${KICAD_FOOTPRINT_PERSO}/3dmodels/ISI-Connector_Wurth.3dshapes/61201021621.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

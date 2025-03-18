@@ -1,0 +1,258 @@
+(footprint "SEEED_Grove_110990030"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Connecteur grove I2C")
+	(property "Reference" "REF**"
+		(at -1.825 -3.485 0)
+		(layer "F.SilkS")
+		(uuid "e745d64c-9995-4ee8-a4e6-2b66ebaad621")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SEEED_110990030"
+		(at 4.525 4.385 0)
+		(layer "F.Fab")
+		(uuid "9d6b4f1e-ca92-45ef-93e4-e01d30a3664d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "ISI-Connector_Grove:SEEED_Grove_110990030"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "20e96547-0fa4-4d79-9bd9-f1f0fa080b03")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e72b5e1-358e-4408-93b6-d7b7ce1be8c6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Connecteur grove I2C"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5422f45d-a5ba-4076-b082-3803c1972035")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5 -2.15)
+		(end 5 -2.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5be74b6d-befc-4e12-b5fb-9bd335a7a765")
+	)
+	(fp_line
+		(start -5 2.95)
+		(end -5 -2.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "75888769-aaf1-43e1-9cbd-c66e7a1532b4")
+	)
+	(fp_line
+		(start 5 -2.15)
+		(end 5 2.95)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "05e1a728-8016-4ceb-9565-f0df407ab407")
+	)
+	(fp_line
+		(start 5 2.95)
+		(end -5 2.95)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ef774ab5-c704-4e1b-a431-5dd00538804f")
+	)
+	(fp_circle
+		(center -5.8 0)
+		(end -5.7 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "41f49bd4-d9e4-4afb-b486-d0b30b1bc3f5")
+	)
+	(fp_line
+		(start -5.25 -2.4)
+		(end 5.25 -2.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6c28a26c-b971-445c-bc76-f6830a2dcf4f")
+	)
+	(fp_line
+		(start -5.25 3.2)
+		(end -5.25 -2.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e0177a24-3cc4-4198-b5dd-b225e0896860")
+	)
+	(fp_line
+		(start 5.25 -2.4)
+		(end 5.25 3.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1b8975ec-288c-42ea-bb91-c2ccf493de3c")
+	)
+	(fp_line
+		(start 5.25 3.2)
+		(end -5.25 3.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1ef1befb-e3f7-42e9-b387-99bc31b58ae8")
+	)
+	(fp_line
+		(start -5 -2.15)
+		(end 5 -2.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fbfc05c7-3117-4147-bc76-4856c46c10bc")
+	)
+	(fp_line
+		(start -5 2.95)
+		(end -5 -2.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2535bd0e-e28b-4b40-8911-866290cd6c7f")
+	)
+	(fp_line
+		(start 5 -2.15)
+		(end 5 2.95)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bc85ff99-2454-46cc-845d-319d6bde4daa")
+	)
+	(fp_line
+		(start 5 2.95)
+		(end -5 2.95)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "db72dcf1-5bb9-41cf-8c6f-34445545a135")
+	)
+	(fp_circle
+		(center -5.8 0)
+		(end -5.7 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "9fb6dacb-36b9-40a7-a6e4-9ac640782ad7")
+	)
+	(pad "1" thru_hole oval
+		(at -3 0)
+		(size 1.308 2.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "0fc9935b-ffa9-4a8f-b11b-301c45b1587a")
+	)
+	(pad "2" thru_hole oval
+		(at -1 0)
+		(size 1.308 2.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "30ca0557-f26b-4660-a507-40f8642c8621")
+	)
+	(pad "3" thru_hole oval
+		(at 1 0)
+		(size 1.308 2.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "43382be0-dc18-4df4-938f-932ddf3b77fb")
+	)
+	(pad "4" thru_hole oval
+		(at 3 0)
+		(size 1.308 2.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "d60ed99a-ec3c-4b53-9a77-8356bf538828")
+	)
+	(model "${KICAD_FOOTPRINT_PERSO}/3dmodels/ISI-Connector_Grove.3dshapes/Connector_Vert_SEEED_Grove_110990030.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

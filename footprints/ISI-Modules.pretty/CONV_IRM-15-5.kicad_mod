@@ -1,0 +1,234 @@
+(footprint "CONV_IRM-15-5"
+	(version 20241129)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "15W  AC-DC PCB-Mount Green Power Module")
+	(property "Reference" "REF**"
+		(at -21.844 -15.621 0)
+		(layer "F.SilkS")
+		(uuid "03f5cc62-71c9-45d2-b1cf-e66db3e29e23")
+		(effects
+			(font
+				(size 1.4 1.4)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CONV_IRM-15-5"
+		(at -14.732 15.621 0)
+		(layer "F.Fab")
+		(uuid "f7541128-97b9-46d6-af75-08abf6e7ed8c")
+		(effects
+			(font
+				(size 1.4 1.4)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4861739f-3f45-4eba-9fa0-094362e79285")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2c43626d-7a24-4543-9b27-4e9f1466a5cd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b1605b19-ebb4-48d2-9ecf-6170ecc8dbef")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -26.2 -13.6)
+		(end 26.2 -13.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8e89775e-0666-4274-bf4d-b1048436de46")
+	)
+	(fp_line
+		(start -26.2 13.6)
+		(end -26.2 -13.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cae0b655-21f2-40ae-bcd1-a29496d76902")
+	)
+	(fp_line
+		(start 26.2 -13.6)
+		(end 26.2 13.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c0d50a86-24bd-48c3-90e2-5a471480c968")
+	)
+	(fp_line
+		(start 26.2 13.6)
+		(end -26.2 13.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6efb2d9f-8548-4a7b-8233-c21c81d4ace1")
+	)
+	(fp_line
+		(start -26.45 -13.85)
+		(end 26.45 -13.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f91e9f96-3c8d-4359-8e99-fcbc3979894e")
+	)
+	(fp_line
+		(start -26.45 13.85)
+		(end -26.45 -13.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cd7bf120-3aa9-46dd-a953-186a1e3ec4a3")
+	)
+	(fp_line
+		(start 26.45 -13.85)
+		(end 26.45 13.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fa7f1a00-0c67-45bd-b7f4-1dd619de181c")
+	)
+	(fp_line
+		(start 26.45 13.85)
+		(end -26.45 13.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e327b964-21ce-49d8-b456-2c62d6d275c5")
+	)
+	(fp_line
+		(start -26.2 -13.6)
+		(end 26.2 -13.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bd230328-d16b-40b8-861b-f4b99eea65c9")
+	)
+	(fp_line
+		(start -26.2 13.6)
+		(end -26.2 -13.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "36a11525-21d7-43e5-9d2b-ea9844a22f0e")
+	)
+	(fp_line
+		(start 26.2 -13.6)
+		(end 26.2 13.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ba7974bf-e4d1-4451-abdd-b47082cf557e")
+	)
+	(fp_line
+		(start 26.2 13.6)
+		(end -26.2 13.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d029a5fc-d3bc-42ac-bf65-f55042da1ff7")
+	)
+	(pad "+V" thru_hole circle
+		(at 22.2 2.4)
+		(size 3 3)
+		(drill 1.24)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "5f1cdc4e-35b3-44cd-b1b4-71c7140f193a")
+	)
+	(pad "-V" thru_hole circle
+		(at 22.2 10.4)
+		(size 3 3)
+		(drill 1.24)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "5382fabd-bba1-45aa-ac99-a026dda43a72")
+	)
+	(pad "AC/L" thru_hole circle
+		(at -22.8 -10.4)
+		(size 3 3)
+		(drill 1.24)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "63283cc1-5c99-4703-8062-745cb71d4525")
+	)
+	(pad "AC/N" thru_hole circle
+		(at -22.8 10.4)
+		(size 3 3)
+		(drill 1.24)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "3a7d0637-b630-4ba4-a641-80a62e7f24ff")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/malam/Documents/6 - PROJET/13 - MODULES DOMOTIQUES/3 - ELECTRONIQUE & ELECTRIQUE/31 - KICAD/COMPOSANT CAD/IRM-15-5/IRM-15-5.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

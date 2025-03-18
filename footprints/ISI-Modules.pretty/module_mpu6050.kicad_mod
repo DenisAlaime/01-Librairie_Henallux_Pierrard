@@ -1,0 +1,324 @@
+(footprint "module_mpu6050"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Module 6 DoF I2C basé sur un MPU6050 associant un accéléromètre 3 axes et un gyroscope 3 axes.")
+	(property "Reference" "REF**"
+		(at 1.27 -20.32 0)
+		(layer "F.SilkS")
+		(uuid "a9ff4171-6841-4aa8-bd18-38efb494554c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "module_mpu6050"
+		(at 7.62 2.54 0)
+		(layer "F.Fab")
+		(uuid "c9167ee8-a38a-4dd5-a133-6ff8195384b5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "ISI-Modules:module_mpu6050"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6997845b-f9c5-4938-9a4c-bfbcdd2d6316")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f7020701-73d0-4898-99c3-ac4dc8d4d57c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Module 6 DoF I2C basé sur un MPU6050 associant un accéléromètre 3 axes et un gyroscope 3 axes."
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6f1c52ae-3978-41ee-9c4c-e66c16ac3dca")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.27 -19.304)
+		(end 15.24 -19.304)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9106cb2f-2d0b-4e75-a7a8-c97d1db17139")
+	)
+	(fp_line
+		(start -1.27 1.27)
+		(end -1.27 -19.304)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b2713395-80bb-460f-9746-11df6c0e7c13")
+	)
+	(fp_line
+		(start 15.24 -19.304)
+		(end 15.24 1.27)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5deffd9a-a47d-4500-a2f1-5ad75446fb52")
+	)
+	(fp_line
+		(start 15.24 1.27)
+		(end -1.27 1.27)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b99f7914-4fe5-4d5d-9303-b7e56f3659be")
+	)
+	(fp_circle
+		(center 12.7 -17.018)
+		(end 13.208 -15.748)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "31988a2b-1abc-4c30-9db4-e19db7a8dc82")
+	)
+	(fp_circle
+		(center 12.7 -1.016)
+		(end 13.208 0.254)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "abd592e4-58db-441f-aa5e-2f05c6279460")
+	)
+	(fp_text user "SDA"
+		(at 3.81 -10.16 0)
+		(layer "F.SilkS")
+		(uuid "1fc43bc3-3dd2-485e-8398-3228454e03ec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "GND"
+		(at 3.81 -15.24 0)
+		(layer "F.SilkS")
+		(uuid "38fc6144-d4cf-4244-a210-8c26fcf77318")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "SCL"
+		(at 3.81 -12.7 0)
+		(layer "F.SilkS")
+		(uuid "5905c1f6-461f-467a-9247-cf0a2785e26d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "INT"
+		(at 3.81 0 0)
+		(layer "F.SilkS")
+		(uuid "7ca73c8a-d935-4332-98fe-bbfcc51b94fc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "VCC"
+		(at 3.81 -17.78 0)
+		(layer "F.SilkS")
+		(uuid "953b2ba5-258e-45ea-b726-da7d45a8ebda")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "ADD"
+		(at 3.81 -2.54 0)
+		(layer "F.SilkS")
+		(uuid "9ac02f10-5225-4907-9556-4d61946a6304")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "XCL"
+		(at 3.81 -5.08 0)
+		(layer "F.SilkS")
+		(uuid "a972dfbc-8cc1-42cb-8b04-7cddcfa04d5d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "XDA"
+		(at 3.81 -7.62 0)
+		(layer "F.SilkS")
+		(uuid "e3e22f5c-5047-44a9-bffc-bba2633c8ae8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole oval
+		(at 12.7 -1)
+		(size 2.5 2.5)
+		(drill 2.5)
+		(layers "F&B.Cu" "*.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "d85279f6-e170-466b-93f5-266425d4350d")
+	)
+	(pad "1" thru_hole oval
+		(at 0 -17.78)
+		(size 2.5 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "56c69ff2-7cb1-45b6-bef4-85e362b58f01")
+	)
+	(pad "2" thru_hole oval
+		(at 0 -15.24)
+		(size 2.5 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "65970dee-6ad5-4a86-8bd6-b5899bec9039")
+	)
+	(pad "3" thru_hole oval
+		(at 0 -12.7)
+		(size 2.5 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5a33f01a-128b-4e20-b742-7cddba753f3a")
+	)
+	(pad "4" thru_hole oval
+		(at 0 -10.16)
+		(size 2.5 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0f788f10-cd78-4d2c-970f-493007850957")
+	)
+	(pad "5" thru_hole oval
+		(at 0 -7.62)
+		(size 2.5 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ccfeefcf-d71c-4a08-97ba-9019d4593c3b")
+	)
+	(pad "6" thru_hole oval
+		(at 0 -5.08)
+		(size 2.5 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2955837f-9e52-4eb7-8375-8e5e1d76e82b")
+	)
+	(pad "7" thru_hole oval
+		(at 0 -2.54)
+		(size 2.5 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "25b6140e-36a1-45f1-91a0-cfad0f51e6ca")
+	)
+	(pad "8" thru_hole oval
+		(at 0 0)
+		(size 2.5 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3ec04a57-1230-4910-98f3-9130413a3d97")
+	)
+	(model "${KICAD_FOOTPRINT_PERSO}/3dmodels/ISI-Modules.3dshapes/MPU_6050.step"
+		(offset
+			(xyz 7 9 11)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+	(model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.step"
+		(offset
+			(xyz 0 0 9.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 0 0)
+		)
+	)
+	(model "${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.step"
+		(offset
+			(xyz 0 17.8 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

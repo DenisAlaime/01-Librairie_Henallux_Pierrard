@@ -1,0 +1,313 @@
+(footprint "WR-DC DC_694106301002"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "<b>WR-DC DC Power Jack Right Angled (6.4)")
+	(property "Reference" "REF**"
+		(at 0 -6.135 0)
+		(layer "F.SilkS")
+		(uuid "ca52aa56-6972-403d-81cd-4ec46980d72d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "694106301002"
+		(at 4.12 7.365 0)
+		(layer "F.Fab")
+		(uuid "101169ea-fd7c-4ac1-b48e-3715854c429a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ac36faf0-4719-4342-8350-a78882e2d045")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9384b583-4fce-408c-9459-63edab595507")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1c5a4ca5-5b74-44b7-a546-b6e95d81ba84")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -7.9 -4.6)
+		(end -7.9 4.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1871a706-41e8-4869-a981-35984a32b7e6")
+	)
+	(fp_line
+		(start 0.5 4.6)
+		(end -7.9 4.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dab80f7a-9347-4ccb-8340-8982590b0297")
+	)
+	(fp_line
+		(start 6.8 -4.6)
+		(end -7.9 -4.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c2f4397c-24fe-4e42-bc1c-f8554102988d")
+	)
+	(fp_line
+		(start 6.8 -4.6)
+		(end 6.8 -1.89)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "831d3127-6f93-451f-93fd-228a030f9ad3")
+	)
+	(fp_line
+		(start 6.8 1.9)
+		(end 6.8 4.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9a6e759c-e600-4cdf-9801-7d4614d06f23")
+	)
+	(fp_line
+		(start 6.8 4.6)
+		(end 5.1 4.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "39ddaf0e-b592-48e2-897e-d4d78a72002d")
+	)
+	(fp_line
+		(start -7.8 -4.5)
+		(end 6.7 -4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "aa4957ad-6943-4753-b5cc-49b8241f9b9e")
+	)
+	(fp_line
+		(start -7.8 4.5)
+		(end -7.8 -4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "709b00ea-2e0b-4210-9f0c-d89ef8a0bf09")
+	)
+	(fp_line
+		(start 6.4 0)
+		(end 6.4 0.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "96975879-bb88-4b00-90a2-8721f61b86fc")
+	)
+	(fp_line
+		(start 6.4 0)
+		(end 6.6 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "30a52234-9957-416e-b085-42edfd8c6c3a")
+	)
+	(fp_line
+		(start 6.7 -4.5)
+		(end 6.7 4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "45afb74b-73fb-433f-b000-8a974d49816a")
+	)
+	(fp_line
+		(start 6.7 4.5)
+		(end -7.8 4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "84ede430-6bef-41a4-ace9-190312158804")
+	)
+	(fp_line
+		(start 7 0.5)
+		(end 6.4 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9429b697-4be2-458b-aef0-b30a0ce5b28a")
+	)
+	(fp_line
+		(start 8 0.5)
+		(end 7 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7322d128-9ff1-4314-a87d-fc51e7d8a094")
+	)
+	(fp_text user "3"
+		(at 2.3 3.5 0)
+		(layer "F.SilkS")
+		(uuid "1237275d-4976-4c12-bae7-ddc054a92657")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "1"
+		(at 4.2 0.7 0)
+		(layer "F.SilkS")
+		(uuid "bc10802a-4bae-4dfe-bea1-e4eb2c8127d3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "2"
+		(at -1.7 0.6 0)
+		(layer "F.SilkS")
+		(uuid "d17f8628-50cc-4e10-b072-d73cffcf8f1e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "PCB Cutout Area"
+		(at 0.1 0 0)
+		(layer "Edge.Cuts")
+		(uuid "42963244-a40f-4dbc-b92a-ed6065446556")
+		(effects
+			(font
+				(size 0.2 0.2)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "PCB Cutout Area"
+		(at 5.9 0 0)
+		(layer "Edge.Cuts")
+		(uuid "91aaa70b-2a45-484b-9e8c-a7f4cee85a7c")
+		(effects
+			(font
+				(size 0.2 0.2)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "PCB Cutout Area"
+		(at 2.9 5 0)
+		(layer "Edge.Cuts")
+		(uuid "d2479bab-43eb-4037-819a-c1b8afe09064")
+		(effects
+			(font
+				(size 0.2 0.2)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 5.8 0)
+		(size 2.2 3.7)
+		(drill oval 0.8 3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "a696e572-740f-4451-9a4a-cd1127b28216")
+	)
+	(pad "2" thru_hole oval
+		(at 0 0)
+		(size 2.2 3.7)
+		(drill oval 0.8 3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "e81e41ce-c788-4bae-b4d9-7db025f9c1fc")
+	)
+	(pad "e" thru_hole oval
+		(at 2.8 4.8 90)
+		(size 2.2 3.7)
+		(drill oval 0.8 3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "07c3581f-c134-4c65-91ff-519ff221c207")
+	)
+	(model "${KIPRJMOD}/Librairie_Henallux_Pierrard/3dmodels/ISI-Connector_Wurth.3dshapes/WR-DC-DC_694106301002.stp"
+		(offset
+			(xyz -4.5 0 5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+)
