@@ -202,7 +202,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ISI-Connector_Wurth:SW_PUSH_6mm_Long"
 			(at 0 0 0)
 			(effects
 				(font

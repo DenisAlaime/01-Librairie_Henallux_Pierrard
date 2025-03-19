@@ -1,5 +1,5 @@
 (footprint "Arduino_Uno_R3_Shield_LonPad"
-	(version 20241129)
+	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
@@ -26,18 +26,6 @@
 				(thickness 0.15)
 			)
 			(justify mirror)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "0445c8b8-a0ac-4cdd-9fc6-089ae9074b6f")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.15)
-			)
 		)
 	)
 	(property "Datasheet" ""
@@ -1092,4 +1080,37 @@
 		(uuid "8a95334c-8ca0-46f9-b2ea-d85a4115f335")
 	)
 	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI_Arduino.3dschapes/arduino uno.STEP"
+		(offset
+			(xyz 0 0 -12.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
+		(offset
+			(xyz 45.75 2.5 -1.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -180 90)
+		)
+	)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x10_P2.54mm_Vertical.wrl"
+		(offset
+			(xyz 18.75 50.75 -1.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -180 -90)
+		)
+	)
 )
