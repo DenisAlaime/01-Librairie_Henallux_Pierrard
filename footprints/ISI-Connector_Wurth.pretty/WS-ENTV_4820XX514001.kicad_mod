@@ -1,7 +1,7 @@
 (footprint "WS-ENTV_4820XX514001"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "<B>WS-ENTV Mechanical Incremental Encoder Switch 11.7x13.75mm Metal Shaft with bushing</B><BR><BR>11.7x13.75mm")
 	(property "Reference" "REF**"
@@ -26,18 +26,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "2179daae-4b2e-4f36-bd7d-caad7aade257")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -47,6 +35,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -59,6 +48,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -71,7 +61,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Cu")
 		(uuid "7e9ba3af-f7ea-4956-a34e-4d01c2106838")
 	)
@@ -83,9 +73,33 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Cu")
 		(uuid "d204afeb-e21b-4101-9d26-baab1c4c243c")
+	)
+	(fp_poly
+		(pts
+			(xy -1.8 -6.05) (xy 1.8 -6.05) (xy 1.8 -3.25) (xy -1.8 -3.25)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "01a9a6a2-b7d0-4b8a-9299-d41e5a2b57dc")
+	)
+	(fp_poly
+		(pts
+			(xy -1.8 3.25) (xy 1.8 3.25) (xy 1.8 6.05) (xy -1.8 6.05)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "97133865-2ea5-4763-976b-781029d03da5")
 	)
 	(fp_poly
 		(pts
@@ -95,7 +109,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "B.Cu")
 		(uuid "1fa407d2-f3e5-4822-96fa-027696045b26")
 	)
@@ -107,9 +121,33 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "B.Cu")
 		(uuid "28cbf011-692f-4cdb-b5b2-506ddcf32db8")
+	)
+	(fp_poly
+		(pts
+			(xy -1.8 -6.05) (xy 1.8 -6.05) (xy 1.8 -3.25) (xy -1.8 -3.25)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "336a673b-af75-4327-8e27-6081681e7e79")
+	)
+	(fp_poly
+		(pts
+			(xy -1.8 3.25) (xy 1.8 3.25) (xy 1.8 6.05) (xy -1.8 6.05)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "f41bd747-b734-43f7-8166-e9f5b4de8f03")
 	)
 	(fp_line
 		(start -7.35 -5.95)
@@ -228,57 +266,9 @@
 			(width 0.4)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "e9f9fc92-863e-45e0-9086-7fea732778bb")
-	)
-	(fp_poly
-		(pts
-			(xy -1.8 -6.05) (xy 1.8 -6.05) (xy 1.8 -3.25) (xy -1.8 -3.25)
-		)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill solid)
-		(layer "B.Mask")
-		(uuid "336a673b-af75-4327-8e27-6081681e7e79")
-	)
-	(fp_poly
-		(pts
-			(xy -1.8 3.25) (xy 1.8 3.25) (xy 1.8 6.05) (xy -1.8 6.05)
-		)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill solid)
-		(layer "B.Mask")
-		(uuid "f41bd747-b734-43f7-8166-e9f5b4de8f03")
-	)
-	(fp_poly
-		(pts
-			(xy -1.8 -6.05) (xy 1.8 -6.05) (xy 1.8 -3.25) (xy -1.8 -3.25)
-		)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.Mask")
-		(uuid "01a9a6a2-b7d0-4b8a-9299-d41e5a2b57dc")
-	)
-	(fp_poly
-		(pts
-			(xy -1.8 3.25) (xy 1.8 3.25) (xy 1.8 6.05) (xy -1.8 6.05)
-		)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.Mask")
-		(uuid "97133865-2ea5-4763-976b-781029d03da5")
 	)
 	(fp_line
 		(start -1.3 -5.55)
@@ -557,7 +547,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "22809f5e-cdcc-4df1-a631-5ffc680ccdba")
 	)
@@ -683,7 +673,8 @@
 		(solder_mask_margin 0.102)
 		(uuid "5459c21b-800e-4391-89d6-a3ec97aacd3f")
 	)
-	(model "${KICAD_FOOTPRINT_PERSO}/3dmodels/ISI-Switch_Relay_Endoder.3dshapes/Encoder Switch 4820xx514001.stp"
+	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI-Switch_Relay_Endoder.3dshapes/Encoder Switch 4820xx514001.stp"
 		(offset
 			(xyz 0 0 6)
 		)

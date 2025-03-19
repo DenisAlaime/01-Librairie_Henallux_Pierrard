@@ -1,7 +1,7 @@
 (footprint "NS-Tech_Grove_1x04_P2mm_Long_Vertical"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf")
 	(tags "Grove-1x04")
@@ -23,19 +23,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" "ISI-Connector_Grove:NS-Tech_Grove_1x04_P2mm_Long_Vertical"
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "5cd866c0-54ce-4364-a7df-6fdd293f63c7")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -310,7 +297,8 @@
 		(remove_unused_layers no)
 		(uuid "20e7444e-106c-4374-a518-dec07ed01f35")
 	)
-	(model "${KICAD_FOOTPRINT_PERSO}/3dmodels/ISI-Connector_Grove.3dshapes/Connector_Vert_SEEED_Grove_110990030.step"
+	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI-Connector_Grove.3dshapes/Connector_Vert_SEEED_Grove_110990030.step"
 		(offset
 			(xyz 0 -3 0)
 		)

@@ -333,7 +333,7 @@
 		(remove_unused_layers no)
 		(uuid "0a737d4c-7b11-45ea-99ed-3074f3b2de2b")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-201_P15.24mm_Horizontal.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-201_P15.24mm_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

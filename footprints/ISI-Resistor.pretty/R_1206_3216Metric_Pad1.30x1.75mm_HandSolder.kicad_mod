@@ -192,7 +192,7 @@
 		(uuid "ecf3622d-8c02-42c9-bbeb-380c2f28a756")
 	)
 	(embedded_fonts no)
-	(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

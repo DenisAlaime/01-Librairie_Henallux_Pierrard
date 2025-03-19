@@ -318,7 +318,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "6292a306-bec2-49af-b5d5-c5db9a14fce2")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-14_4.4x5mm_P0.65mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-14_4.4x5mm_P0.65mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

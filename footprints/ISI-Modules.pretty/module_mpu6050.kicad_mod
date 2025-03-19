@@ -1,7 +1,7 @@
 (footprint "module_mpu6050"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Module 6 DoF I2C basé sur un MPU6050 associant un accéléromètre 3 axes et un gyroscope 3 axes.")
 	(property "Reference" "REF**"
@@ -22,19 +22,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" "ISI-Modules:module_mpu6050"
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "6997845b-f9c5-4938-9a4c-bfbcdd2d6316")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -113,7 +100,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "31988a2b-1abc-4c30-9db4-e19db7a8dc82")
 	)
@@ -124,7 +111,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "abd592e4-58db-441f-aa5e-2f05c6279460")
 	)
@@ -288,7 +275,8 @@
 		(remove_unused_layers no)
 		(uuid "3ec04a57-1230-4910-98f3-9130413a3d97")
 	)
-	(model "${KICAD_FOOTPRINT_PERSO}/3dmodels/ISI-Modules.3dshapes/MPU_6050.step"
+	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI-Modules.3dshapes/MPU_6050.step"
 		(offset
 			(xyz 7 9 11)
 		)

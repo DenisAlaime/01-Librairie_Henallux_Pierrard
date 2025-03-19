@@ -370,7 +370,7 @@
 		(remove_unused_layers no)
 		(uuid "fbe30314-b873-49cc-9275-21d20e73732c")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-18_W7.62mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-18_W7.62mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

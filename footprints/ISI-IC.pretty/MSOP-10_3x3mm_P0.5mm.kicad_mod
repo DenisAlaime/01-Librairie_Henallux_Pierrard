@@ -298,7 +298,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "40d83c20-d4f1-4e7c-9400-a3911ef1b662")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-10_3x3mm_P0.5mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-10_3x3mm_P0.5mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

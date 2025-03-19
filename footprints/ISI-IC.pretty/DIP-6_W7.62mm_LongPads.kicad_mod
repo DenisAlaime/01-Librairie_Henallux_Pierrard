@@ -1,7 +1,7 @@
 (footprint "DIP-6_W7.62mm_LongPads"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads")
 	(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads")
@@ -23,19 +23,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "f4cce0b3-f7b3-4583-ba80-32a13f05c118")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -277,7 +264,8 @@
 		(remove_unused_layers no)
 		(uuid "21a9657f-d25b-419e-8c18-aa5d9ac16160")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-6_W7.62mm.wrl"
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-6_W7.62mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -420,7 +420,7 @@
 		(roundrect_rratio 0.15625)
 		(uuid "6505bd0b-5c0a-4d3d-b566-c95e7f464112")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_4x4.5.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_4x4.5.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

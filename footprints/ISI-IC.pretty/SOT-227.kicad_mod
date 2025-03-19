@@ -435,7 +435,7 @@
 		(layers "F.Cu" "F.Mask")
 		(uuid "cf3bec40-ecbf-45d7-9fa2-f05ff2534dc5")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/SOT-227.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/SOT-227.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

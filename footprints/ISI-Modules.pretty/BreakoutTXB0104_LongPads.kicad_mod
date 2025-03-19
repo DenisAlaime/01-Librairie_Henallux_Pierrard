@@ -1,5 +1,5 @@
 (footprint "BreakoutTXB0104_LongPads"
-	(version 20241129)
+	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
@@ -23,18 +23,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "811c4b29-a9d9-40c0-9035-bca4580f5499")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -280,7 +268,7 @@
 		(uuid "f6e011f9-404e-4f12-b0e5-e3ce7c1df210")
 	)
 	(embedded_fonts no)
-	(model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-14_W10.16mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-14_W10.16mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

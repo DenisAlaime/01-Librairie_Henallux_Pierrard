@@ -1,7 +1,7 @@
 (footprint "Module_Grove"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Grove general module")
 	(property "Reference" "REF**"
@@ -21,19 +21,6 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "6aeaeb59-ae8b-41e5-b868-8c230ffc08bf")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" "ISI-Modules:Module_Grove"
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "6cb58d2c-cd78-4c0c-bfab-15ec97671026")
 		(effects
 			(font
 				(size 1 1)
@@ -612,7 +599,7 @@
 			(width 0.2)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "1c2df44b-fc6e-4205-900c-dc35fb516612")
 	)
@@ -623,7 +610,7 @@
 			(width 0.2)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "b6020ca4-48a3-4f50-989f-6010ff12f3ed")
 	)
@@ -685,7 +672,8 @@
 			"ff7ba039-024f-4f14-9015-f786e5e858b8"
 		)
 	)
-	(model "${KICAD_FOOTPRINT_PERSO}/3dmodels/ISI-Modules.3dshapes/Grove touch sensor.STEP"
+	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI-Modules.3dshapes/Grove touch sensor.STEP"
 		(offset
 			(xyz 10 1 7)
 		)

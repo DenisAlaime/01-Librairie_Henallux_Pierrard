@@ -1,7 +1,7 @@
 (footprint "WS-ENTV_482016564002"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "WS-ENTV Mechanical Incremental Encoder Switch 11.7x12.00mm Metal Shaft with Plain bushing\n\n11.7x12.00mm")
 	(property "Reference" "REF**"
@@ -28,19 +28,6 @@
 				(thickness 0.1016)
 			)
 			(justify bottom)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "198ec6a3-12ce-4417-8829-58d0f859822f")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.15)
-			)
 		)
 	)
 	(property "Datasheet" ""
@@ -156,7 +143,7 @@
 			(width 0.4)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "6eb1c0f7-676b-4503-89af-d209fdd41afb")
 	)
@@ -207,7 +194,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "f331e55a-5809-400f-b4ec-0a488784dccc")
 	)
@@ -365,7 +352,8 @@
 		(thermal_bridge_angle 0)
 		(uuid "7b193daf-9c97-48f4-be96-f931b9a6b400")
 	)
-	(model "${KICAD_FOOTPRINT_PERSO}/3dmodels/ISI-Switch_Relay_Endoder.3dshapes/Encoder Switch 4820xx514001.stp"
+	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI-Switch_Relay_Endoder.3dshapes/Encoder Switch 4820xx514001.stp"
 		(offset
 			(xyz 0 0 6)
 		)

@@ -3283,7 +3283,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ISI-Modules:DCDC_StepDown_LM2596_Module_Amazon"
 			(at -1.27 0 0)
 			(effects
 				(font

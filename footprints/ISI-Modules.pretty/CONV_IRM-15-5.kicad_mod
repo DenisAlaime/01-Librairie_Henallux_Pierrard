@@ -1,5 +1,5 @@
 (footprint "CONV_IRM-15-5"
-	(version 20241129)
+	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
@@ -22,18 +22,6 @@
 		(effects
 			(font
 				(size 1.4 1.4)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "4861739f-3f45-4eba-9fa0-094362e79285")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)

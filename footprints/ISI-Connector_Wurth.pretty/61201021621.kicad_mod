@@ -1,7 +1,7 @@
 (footprint "61201021621"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "WR-BHD 2.54mm Male Box Header, 10 Pins IDC connecteur")
 	(property "Reference" "REF**"
@@ -22,18 +22,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "a790ec24-f649-40be-8f8a-1b7eff38d020")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -246,7 +234,8 @@
 		(solder_mask_margin 0.102)
 		(uuid "7d861af9-9bd4-4c0b-9a68-9d01f7989edc")
 	)
-	(model "${KICAD_FOOTPRINT_PERSO}/3dmodels/ISI-Connector_Wurth.3dshapes/61201021621.step"
+	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI-Connector_Wurth.3dshapes/61201021621.step"
 		(offset
 			(xyz 0 0 0)
 		)

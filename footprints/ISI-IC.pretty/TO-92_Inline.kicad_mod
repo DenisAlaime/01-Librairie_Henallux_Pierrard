@@ -203,7 +203,7 @@
 		(remove_unused_layers no)
 		(uuid "58a02559-fefd-4819-914f-420454f3bf9f")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Inline.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Inline.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

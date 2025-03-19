@@ -1,8 +1,7 @@
 (footprint "PinSocket_1x10_P2.54mm_Long_Vertical"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
-	(locked yes)
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Through hole straight socket strip, 1x10, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 	(tags "Through hole socket strip THT 1x10 2.54mm single row")
@@ -25,19 +24,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical"
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "d6626f89-56ab-4764-a250-cbe959d8a724")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -220,7 +206,7 @@
 		(uuid "96f323ac-88f2-4d13-9393-59c6f117f9aa")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 3.81 0 -90)
+		(at 3.81 0 270)
 		(layer "F.Fab")
 		(uuid "e911e953-8b0f-47e9-9548-9d835b8826b5")
 		(effects
@@ -310,7 +296,8 @@
 		(remove_unused_layers no)
 		(uuid "31846c04-1b96-43ac-b155-c310b58ae2b8")
 	)
-	(model "${KICAD7_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x10_P2.54mm_Vertical.wrl"
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x10_P2.54mm_Vertical.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -238,7 +238,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "1c0060c2-9888-43ce-a6d2-554f66e30f1f")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-323_SC-70.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-323_SC-70.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

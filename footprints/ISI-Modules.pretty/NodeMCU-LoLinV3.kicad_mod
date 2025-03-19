@@ -1,5 +1,5 @@
 (footprint "NodeMCU-LoLinV3"
-	(version 20241129)
+	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
@@ -21,18 +21,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "0fa2c3ee-1f34-4ef1-ab55-748d154a4b2e")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -727,7 +715,7 @@
 		(uuid "31bfa3cd-d5cb-4f92-bcf7-1991cc4c4d08")
 	)
 	(embedded_fonts no)
-	(model "F:/Denis/Projet KICAD/01 Librairie_Henallux_Pierrard/3dmodels/ISI-Modules.3dshapes/Lolin NodeMCU ESP8266 V3.STEP"
+	(model "${KICAD_USER_3RD_DIR}/ISI-Modules.3dshapes/Lolin NodeMCU ESP8266 V3.STEP"
 		(offset
 			(xyz 0 -26.5 5)
 		)

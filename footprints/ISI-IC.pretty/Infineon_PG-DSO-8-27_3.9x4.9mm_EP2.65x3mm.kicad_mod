@@ -312,7 +312,7 @@
 		(zone_connect 2)
 		(uuid "763c0934-5448-4ffd-bf89-08b5dc1abd28")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

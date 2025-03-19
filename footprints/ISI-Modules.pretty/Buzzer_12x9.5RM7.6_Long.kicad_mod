@@ -1,5 +1,5 @@
 (footprint "Buzzer_12x9.5RM7.6_Long"
-	(version 20241129)
+	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
@@ -23,18 +23,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "6b477696-53ad-4f2e-9c8d-ce2ebbf24155")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -160,7 +148,7 @@
 		(uuid "633eb60d-e2e3-433c-aca1-6231ab073121")
 	)
 	(embedded_fonts no)
-	(model "${KICAD8_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_12x9.5RM7.6.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_12x9.5RM7.6.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

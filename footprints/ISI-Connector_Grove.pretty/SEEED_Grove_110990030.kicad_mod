@@ -1,7 +1,7 @@
 (footprint "SEEED_Grove_110990030"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Connecteur grove I2C")
 	(property "Reference" "REF**"
@@ -22,19 +22,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" "ISI-Connector_Grove:SEEED_Grove_110990030"
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "20e96547-0fa4-4d79-9bd9-f1f0fa080b03")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -113,7 +100,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "41f49bd4-d9e4-4afb-b486-d0b30b1bc3f5")
 	)
@@ -204,7 +191,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "9fb6dacb-36b9-40a7-a6e4-9ac640782ad7")
 	)
@@ -244,7 +231,8 @@
 		(solder_mask_margin 0.102)
 		(uuid "d60ed99a-ec3c-4b53-9a77-8356bf538828")
 	)
-	(model "${KICAD_FOOTPRINT_PERSO}/3dmodels/ISI-Connector_Grove.3dshapes/Connector_Vert_SEEED_Grove_110990030.step"
+	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI-Connector_Grove.3dshapes/Connector_Vert_SEEED_Grove_110990030.step"
 		(offset
 			(xyz 0 0 0)
 		)

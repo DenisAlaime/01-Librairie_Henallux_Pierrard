@@ -259,7 +259,7 @@
 		(roundrect_rratio 0.1086956522)
 		(uuid "fb56f605-8532-457c-bd3e-d1b643b0cc24")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMB.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMB.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

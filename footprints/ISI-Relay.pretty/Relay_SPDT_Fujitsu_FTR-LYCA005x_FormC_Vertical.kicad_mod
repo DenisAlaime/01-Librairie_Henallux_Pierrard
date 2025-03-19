@@ -340,7 +340,7 @@
 		(uuid "a5c37e0c-fff0-446f-a376-6004cbd005cb")
 	)
 	(embedded_fonts no)
-	(model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Fujitsu_FTR-LYCA005x_FormC_Vertical.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Fujitsu_FTR-LYCA005x_FormC_Vertical.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
