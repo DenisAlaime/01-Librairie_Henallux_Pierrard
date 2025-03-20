@@ -24,7 +24,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" "ISI-Connector_Wurth:WS-ENTV_4820XX514001"
+		(property "Footprint" "PierrardVirtonPackage:WS-ENTV_4820XX514001"
 			(at -0.508 -14.732 0)
 			(effects
 				(font
@@ -49,6 +49,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "ki_locked" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(symbol "482009514001_1_0"
@@ -184,7 +192,7 @@
 			)
 			(polyline
 				(pts
-					(xy -5.715 7.62) (xy -12.7 7.62)
+					(xy -5.715 7.62) (xy -5.715 5.08)
 				)
 				(stroke
 					(width 0.254)
@@ -196,7 +204,7 @@
 			)
 			(polyline
 				(pts
-					(xy -5.715 7.62) (xy -5.715 5.08)
+					(xy -5.715 7.62) (xy -12.7 7.62)
 				)
 				(stroke
 					(width 0.254)

@@ -7512,7 +7512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ISI-IC:SO-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "ISI-IC:SO_SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 0 0 0)
 			(effects
 				(font

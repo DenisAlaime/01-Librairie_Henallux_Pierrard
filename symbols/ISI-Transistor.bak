@@ -18,7 +18,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "IRLML6346TRPbF"
+		(property "Value" "NVR5198NLT1G"
 			(at 5.08 0 0)
 			(effects
 				(font
@@ -38,7 +38,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.be/datasheet/2/196/Infineon_IRLML6346_DataSheet_v01_01_EN-3363407.pdf"
+		(property "Datasheet" "https://fr.farnell.com/on-semiconductor/nvr5198nlt1g/mosfet-canal-n-60v-2-2a-sot23/dp/2533212?MER=sy-me-pd-mi-alte"
 			(at 5.08 -3.81 0)
 			(effects
 				(font
@@ -48,7 +48,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "MOSFETs MOSFT 3.4A 63mOhm 30V 2.5V drv capable"
+		(property "Description" "MOSFET de puissance, Canal N, 60 V, 2.2 A, 0.107 ohm, SOT-23, Montage en surface"
 			(at 0 0 0)
 			(effects
 				(font
