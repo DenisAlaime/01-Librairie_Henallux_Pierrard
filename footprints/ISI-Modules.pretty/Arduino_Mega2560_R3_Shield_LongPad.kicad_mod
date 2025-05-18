@@ -1,5 +1,5 @@
 (footprint "Arduino_Mega2560_R3_Shield_LongPad"
-	(version 20241129)
+	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
@@ -26,18 +26,6 @@
 				(thickness 0.15)
 			)
 			(justify mirror)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "884db68d-ef99-4656-b78b-9a2e533e4ff0")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.15)
-			)
 		)
 	)
 	(property "Datasheet" ""
@@ -1720,4 +1708,15 @@
 		(uuid "6f8dd40a-ac00-453b-83cc-314fa32f8495")
 	)
 	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI_Arduino.3dschapes/ARDUINO_MEGA_2560_REV3_A000067.step"
+		(offset
+			(xyz 50.75 26.75 -14.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )
