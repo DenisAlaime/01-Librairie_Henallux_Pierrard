@@ -1,4 +1,4 @@
-24972544130682235
+25008859755174602
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58478,6 +58478,13 @@ capacitor electrolytic
 2
 2
 ISI-Capacitor
+CP_Radial_D5.0mm_P2.00mm_long
+CP, Radial series, Radial, pin pitch=2.00mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+ISI-Capacitor
 CP_Radial_D7.5mm_P2.50mm
 CP, Radial series, Radial, pin pitch=2.50mm, , diameter=7.5mm, Electrolytic Capacitor
 CP Radial series Radial pin pitch 2.50mm  diameter 7.5mm Electrolytic Capacitor
@@ -58512,6 +58519,13 @@ capacitor handsolder
 0
 2
 2
+ISI-Connector_Generic
+ AK_700_4_V_COMBI_NORM
+https://www.phoenixmecano.com/product/ak-700-4v-2790/
+THT Terminal Block 5.08 mm
+0
+4
+4
 ISI-Connector_Grove
 NS-Tech_Grove_1x04_P2mm_Long_Vertical
 https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf
@@ -58758,6 +58772,20 @@ ISI-Connector_Wurth
 2
 2
 ISI-Connector_Wurth
+691321100004
+<b>WR-TBL Serie 3211 - 3.50 mm Vertical PCB Header<br></b>Max Height = 9.2mm , Pitch 3.5mm , 4pins
+
+0
+4
+4
+ISI-Connector_Wurth
+691321300004
+<b>WR-TBL Serie 321 - 3.81 mm Vertical PCB Header<br></b>Max Height = 9.2mm , Pitch 3.81mm , 4pins
+
+0
+4
+4
+ISI-Connector_Wurth
 636101111001
 WR-UMRF PCB Receptacle SMT with 3 Pads 
 
@@ -58905,6 +58933,13 @@ LED diameter 5.0mm 2 pins
 2
 2
 ISI-Divers
+14473609
+1447360-9-2
+Connector
+0
+1
+1
+ISI-Divers
 MountingHole_3mm
 Mounting Hole 3mm, no annular
 mounting hole 3mm no annular
@@ -58989,12 +59024,33 @@ THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
 28
 28
 ISI-IC
+Diode_Bridge_DIP-4_W7.62mm_P5.08mm_Long
+4-lead dip package for diode bridges, row spacing 7.62 mm (300 mils), see http://cdn-reichelt.de/documents/datenblatt/A400/HDBL101G_20SERIES-TSC.pdf
+DIL DIP PDIP 5.08mm 7.62mm 300mil
+0
+4
+4
+ISI-IC
+ICM42352
+14 Lead LGA (2.5x3x0.91)_1
+Integrated Circuit
+0
+14
+14
+ISI-IC
 Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm
 Infineon  PG-DSO, 8 Pin (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-8-27), generated with kicad-footprint-generator ipc_gullwing_generator.py
 Infineon PG-DSO SO
 0
 13
 9
+ISI-IC
+MP2322GQHZ
+MP2322GQH-Z-2
+Integrated Circuit
+0
+8
+8
 ISI-IC
 MSOP-8_3x3mm_P0.65mm
 MSOP, 8 Pin (https://www.jedec.org/system/files/docs/mo-187F.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -59009,6 +59065,20 @@ SSOP 0.5
 0
 10
 10
+ISI-IC
+Pad_CarteACarte
+SMD rectangular pad as test Point, square 3.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+ISI-IC
+Pad_CarteACarte_SMD
+SMD rectangular pad as test Point, square 3.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
 ISI-IC
 QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm_ThermalVias
 QFN, 32 Pin (https://www.espressif.com/sites/default/files/documentation/0a-esp8285_datasheet_en.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -59233,6 +59303,13 @@ TSSOP SO
 0
 16
 16
+ISI-IC
+TestPoint_Pad_3.0x3.0mm
+SMD rectangular pad as test Point, square 3.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
 ISI-Inductor
 L_0805_2012Metric
 Inductor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
@@ -59275,6 +59352,20 @@ LCD 16x2 Alphanumeric 16pin
 0
 20
 16
+ISI-Modules
+Adafruit 3648
+Absolute Orientation Sensor
+
+0
+10
+9
+ISI-Modules
+Arduino_Mega2560_R3_Shield
+https://docs.arduino.cc/hardware/mega-2560
+
+0
+92
+91
 ISI-Modules
 Arduino_Mega2560_R3_Shield_LongPad
 https://docs.arduino.cc/hardware/mega-2560
@@ -59325,12 +59416,26 @@ NodeMCU-LoLinV3
 30
 30
 ISI-Modules
+SPARKFUN_SEN-13879
+
+
+0
+12
+12
+ISI-Modules
 StepDown_LM2596_Module_Amazon
 
 
 0
 4
 4
+ISI-Modules
+TCA9548A_Module
+
+
+0
+26
+26
 ISI-Modules
 Vishay_CAST-3Pin
 IR Receiver Vishay TSOP-xxxx, CAST package, see https://www.vishay.com/docs/82493/tsop311.pdf
@@ -59342,6 +59447,48 @@ ISI-Modules
 module_mpu6050
 Module 6 DoF I2C basé sur un MPU6050 associant un accéléromètre 3 axes et un gyroscope 3 axes.
 
+0
+8
+8
+ISI-Panelization.pretty-master
+mouse-bite-1mm-slot
+
+
+0
+0
+0
+ISI-Panelization.pretty-master
+mouse-bite-2.54mm-slot
+
+
+0
+0
+0
+ISI-Panelization.pretty-master
+mouse-bite-2mm-slot
+
+
+0
+0
+0
+ISI-Panelization.pretty-master
+mouse-bite-3mm-slot
+
+
+0
+0
+0
+ISI-Panelization.pretty-master
+mouse-bite-5mm-slot
+
+
+0
+0
+0
+ISI-Relay
+Relay_DPDT_Finder_30.22
+Finder 32.21-x000 Relay, DPDT, https://gfinder.findernet.com/public/attachments/30/EN/S30EN.pdf
+AXICOM IM-Series Relay SPDT
 0
 8
 8
