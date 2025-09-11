@@ -1,0 +1,165 @@
+(footprint "WE-TVS_DFN1210-6L"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "<b>WE-TVS TVS Diode<br></b>Size:  DFN1210-6L<BR>L X W X H = 1.2mm X 1.0mm X 0.45mm")
+	(property "Reference" "REF**"
+		(at 0 -2 0)
+		(layer "F.SilkS")
+		(uuid "5bdbe536-c1ae-4a79-8094-311f47a67f88")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "WE-TVS_DFN1210-6L"
+		(at 0 1.4952 0)
+		(layer "F.Fab")
+		(uuid "47d34416-f0b9-4b00-9bf3-aad18cb51c84")
+		(effects
+			(font
+				(size 0.48 0.48)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "728c9e7e-d7a0-418b-840f-31f40159730d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b20ef25c-9ec0-4f4e-8054-711860abdea3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -0.9 0.9)
+		(end -0.85 0.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b3d36a86-45c9-4e93-93fa-f811a3383a15")
+	)
+	(fp_poly
+		(pts
+			(xy -0.825 -0.975) (xy 0.825 -0.975) (xy 0.825 0.975) (xy -0.825 0.975)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "cfc67068-973e-4a3e-8541-0cd267596120")
+	)
+	(fp_line
+		(start -0.6 -0.5)
+		(end 0.6 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "64e25394-3d91-4200-b36d-6def8230e18c")
+	)
+	(fp_line
+		(start -0.6 0.5)
+		(end -0.6 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "07b4f7d7-dc7d-413c-aa03-87c9de672b66")
+	)
+	(fp_line
+		(start 0.6 -0.5)
+		(end 0.6 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "01b0e3ad-73d6-46c6-a6e0-92b5b514bd47")
+	)
+	(fp_line
+		(start 0.6 0.5)
+		(end -0.6 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "feaeaad5-3a08-4719-8aae-17fe49b3ead4")
+	)
+	(pad "1" smd rect
+		(at -0.4 0.4375 90)
+		(size 0.675 0.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c16828d3-1ece-449b-a099-4c75fb293c95")
+	)
+	(pad "2" smd rect
+		(at 0 0.4375 90)
+		(size 0.675 0.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d8d1b438-c171-4d80-bad9-3b64e7ec48ae")
+	)
+	(pad "3" smd rect
+		(at 0.4 0.4375 90)
+		(size 0.675 0.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "eee429a1-60fc-49c1-b7fb-352892e7dfc5")
+	)
+	(pad "4" smd rect
+		(at 0.4 -0.4375 90)
+		(size 0.675 0.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3e3c2079-708d-4d5a-b76c-9ccf38cb12bc")
+	)
+	(pad "5" smd rect
+		(at 0 -0.4375 90)
+		(size 0.675 0.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5bdf6f7c-2a86-494d-b518-bd1c0589517b")
+	)
+	(pad "6" smd rect
+		(at -0.4 -0.4375 90)
+		(size 0.675 0.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cfc98b82-7ff4-41f0-bff0-a80608d63cd4")
+	)
+	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI_Diode/824012823.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

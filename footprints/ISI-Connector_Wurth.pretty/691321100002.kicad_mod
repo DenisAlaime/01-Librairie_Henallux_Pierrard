@@ -1,0 +1,187 @@
+(footprint "691321100002"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "<b>WR-TBL Serie 3211 - 3.50 mm Vertical PCB Header<br></b>Max Height = 9.2mm , Pitch 3.5mm , 2pins")
+	(property "Reference" "REF**"
+		(at 0 -5.835 0)
+		(layer "F.SilkS")
+		(uuid "3fc56b0c-672d-4b5c-903b-b54e106ddf4d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "691321100002"
+		(at 4.12 4.365 0)
+		(layer "F.Fab")
+		(uuid "4f613ee2-5ab8-4efb-bc6e-f560e349311e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "823017dd-f047-467e-8e83-fe1c98772018")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "87d89eaa-1840-47da-af5a-ac49fad10ee1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -4.3 -4.5)
+		(end 4.3 -4.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d028ae3d-4c2c-4953-a89c-2be1521fb051")
+	)
+	(fp_line
+		(start -4.3 2.9)
+		(end -4.3 -4.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0dfde4da-69d4-4622-98b1-5409d7ccd5ad")
+	)
+	(fp_line
+		(start 4.3 -4.5)
+		(end 4.3 2.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6405b856-339d-4345-be8a-02270aac2003")
+	)
+	(fp_line
+		(start 4.3 2.9)
+		(end -4.3 2.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b9bfb718-1027-4976-b8e4-1b840c70921a")
+	)
+	(fp_circle
+		(center -3 -1.6)
+		(end -2.9 -1.6)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "c0ae7cd5-591f-4cb9-ad58-eeb68a7f401d")
+	)
+	(fp_poly
+		(pts
+			(xy -4.5 -4.7) (xy 4.5 -4.7) (xy 4.5 3.1) (xy -4.5 3.1)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "967940d4-16d8-4d6a-9114-e44a79a918aa")
+	)
+	(fp_line
+		(start -4.2 -4.4)
+		(end -4.2 2.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "156fe4eb-8bbd-4a71-9035-d33ce7dd0236")
+	)
+	(fp_line
+		(start -4.2 2.8)
+		(end 4.2 2.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "203f1273-0ffc-495f-9d47-35859faa259d")
+	)
+	(fp_line
+		(start 4.2 -4.4)
+		(end -4.2 -4.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7a58a95c-d996-4762-b791-3d92cdc56b22")
+	)
+	(fp_line
+		(start 4.2 2.8)
+		(end 4.2 -4.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c722c5de-477f-4a40-98f5-19078a6894a1")
+	)
+	(pad "1" thru_hole circle
+		(at -1.75 0)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "e3b7b903-35c9-4c51-9d7a-d7105f5c1309")
+	)
+	(pad "2" thru_hole circle
+		(at 1.75 0)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "c9c1e829-0db3-4285-9584-eb4dae2e23d3")
+	)
+	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI-Connector_Wurth.3dshapes/691321100002.step"
+		(offset
+			(xyz 0 0.75 4.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
