@@ -1,0 +1,128 @@
+(footprint "WCAP-ATUL_18X35.5_DXL_"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "<B>WCAP-ATUL</B><BR> Aluminium Electrolytic Capacitors,18X35.5X7.5X0.8(DiameterXLengthX PitchXØPin)")
+	(property "Reference" "REF**"
+		(at -0.34 -10.588 0)
+		(layer "F.SilkS")
+		(uuid "906317cf-0e4b-4e9e-9d5b-e7f12fdba755")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "WCAP-ATUL_18X35.5_DXL_"
+		(at -0.24 10.242 0)
+		(layer "F.Fab")
+		(uuid "a23d1f87-193b-4ea4-a84d-72b18944f7a4")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f3aa857a-6fb2-4277-89a0-6876e66892b5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6b409350-b447-45a5-b658-434969d8f0ad")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 9.1 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "f7b7dc48-5ca8-4132-9863-d70ddbf3bc93")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 8.513 -3.901)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "4be19da5-f10a-409e-a903-a424449feb5b")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 9 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "f3aa2a08-3664-484f-8daf-6e4c2c38dee0")
+	)
+	(fp_text user "+"
+		(at 10.1 0.7 0)
+		(layer "F.SilkS")
+		(uuid "cdbdcab8-e4ef-4a07-bed9-96ae6cc155f8")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 3.75 0)
+		(size 2.2 2.2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "ee673685-1384-44d0-9a6f-23530d034a02")
+	)
+	(pad "2" thru_hole rect
+		(at -3.75 0)
+		(size 2.2 2.2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "a420c8b7-956d-4c01-8d30-2dd8e058bb72")
+	)
+	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI-Passive_Wurth/860040781020.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
