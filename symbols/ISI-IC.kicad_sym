@@ -7071,7 +7071,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "MIC4104_SOIC-8"
+	(symbol "MIC4104YM"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7084,7 +7084,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "MIC4104 SOIC-8"
+		(property "Value" "MIC4104YM"
 			(at -1.27 -3.81 0)
 			(effects
 				(font
@@ -7103,7 +7103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.be/datasheet/2/268/mic4103_4-3445331.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7112,7 +7112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100V Half-Bridge MOSFET Drivers with 3A/2A Sinking/Sourcing Current"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7121,422 +7121,12 @@
 				(hide yes)
 			)
 		)
-		(property "MCHP-ID" "MIC6432"
-			(at -5.588 2.54 0)
+		(property "ki_keywords" "MIC4104YM"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" "MIC4104"
-			(at 0 -33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "DESCRIPTION_" "MCHP ANALOG FET DRIVER Dual-Non-Inverting MIC4104 SOIC-8"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SYMBOL" "MIC4104 SOIC-8"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "TYPE" "FET Driver"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MAPS DESCRIPTION" "100V HalfBridge MOSFET Driver 3/2A SOURCE/SINK CURRENT TTL INPUT"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "STATUS" "MCL Design"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "DEV TOOLS STATUS" "Design"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "REVISION" "A"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OWNER" "Ed Kennedy"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "CATEGORY" "MCHP-Analog"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://www.microchip.com/wwwproducts/MIC4104"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1DESCRIPTION" "SVN Datasheet"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK2DESCRIPTION" "Local Datasheet"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK3URL" "C~{:}ALTIUM_WOR~{K}00001_MCHP-CD~{B}Librar~{y}LibraryRef~{s}MIC4104 SOIC-8.SchLib"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK3DESCRIPTION" "Open Symbol"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK4URL" "C~{:}ALTIUM_WOR~{K}00001_MCHP-CD~{B}Librar~{y}Footprint~{s}SOIC-8.PcbLib"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK4DESCRIPTION" "Open Footprint"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK5DESCRIPTION" "Open Footprint 2"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK6DESCRIPTION" "Open Footprint 3"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK7DESCRIPTION" "Open Footprint 4"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER 1" "Micrel Inc"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER PART NUMBER 1" "MIC4104YM"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 1" "Digi-Key"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 1" "576-1590-ND"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPC" "2780143BXE01"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LEADCONTENT" "Pb-FREE"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "INTRODUCTIONDATE" "2007-01-08"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKINGMEDIA" "TUBE"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "STAGE" "REL"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LEADCOUNT" "8"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGETYPE" "SOIC"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGEWIDTH" "3.90mm(.150in)"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "FORCEMINORDERQTYMULT" "False"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MINORDERQTY" "1"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "TEMPRANGE" "-40C to +125C"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "TBLDEVICEFAMILYID" "7802"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PEAKOUTPUTCURRENT" "3.0/2.0"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "POPULATED" "YES"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "QUANTITY OVERRIDE" "1"
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "BOM NOTES" ""
-			(at -5.588 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK2URL" "C~{:}ALTIUM_WOR~{K}00001_MCHP-CD~{B}Datasheet~{s}mic4103-4.pdf"
-			(at -5.588 7.874 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -7549,7 +7139,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "MIC4104_SOIC-8_1_0"
+		(symbol "MIC4104YM_1_0"
 			(rectangle
 				(start 0 0)
 				(end 15.24 -30.48)
@@ -10002,6 +9592,238 @@
 					(effects
 						(font
 							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "TSC1031IYDT"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at -12.7 21.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "TSC1031IYDT"
+			(at -12.7 -24.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "ISI-IC:SO_SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.be/ProductDetail/STMicroelectronics/TSC1031IPT?qs=SAP8%252B8699SDQZVMOY81fMg%3D%3D"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Current Sense Amplifiers High-Voltage Amp 2.7 to 5.5 V Single"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "STMicroelectronics"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOP65P640X120-8N"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(symbol "TSC1031IYDT_0_0"
+			(rectangle
+				(start -12.7 -20.32)
+				(end 12.7 20.32)
+				(stroke
+					(width 0.41)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 5.08 0)
+				(length 5.08)
+				(name "A1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 0 0)
+				(length 5.08)
+				(name "SEL"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 -5.08 0)
+				(length 5.08)
+				(name "VM"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 -10.16 0)
+				(length 5.08)
+				(name "VP"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 17.78 17.78 180)
+				(length 5.08)
+				(name "VCC+"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 17.78 15.24 180)
+				(length 5.08)
+				(name "VCC-"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 17.78 10.16 180)
+				(length 5.08)
+				(name "OUT"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 17.78 -15.24 180)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.016 1.016)
 						)
 					)
 				)
