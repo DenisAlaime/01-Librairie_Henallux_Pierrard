@@ -4883,7 +4883,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SEN-13879:SPARKFUN_SEN-13879"
+		(property "Footprint" "ISI-Modules:SPARKFUN_SEN-13879"
 			(at 0 0 0)
 			(effects
 				(font
