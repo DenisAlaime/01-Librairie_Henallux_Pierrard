@@ -361,7 +361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "694108106102:694108106102"
+		(property "Footprint" "ISI-Connector_Wurth:694108106102"
 			(at 0 0 0)
 			(effects
 				(font

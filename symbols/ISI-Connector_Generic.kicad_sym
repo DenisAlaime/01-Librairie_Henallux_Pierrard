@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "54-00178:TENSILITY_54-00178"
+		(property "Footprint" "ISI-Connector_Generic:54-00178"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37,7 +37,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://tensility.s3.us-west-2.amazonaws.com/uploads/pdffiles/54-00178.pdf"
 			(at 0 0 0)
 			(effects
 				(font

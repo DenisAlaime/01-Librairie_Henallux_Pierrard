@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CB3LV-3C-25M000000:OSC_CB3LV-3C-25M000000"
+		(property "Footprint" "ISI-Divers:OSC_CB3LV-3C"
 			(at 0 0 0)
 			(effects
 				(font

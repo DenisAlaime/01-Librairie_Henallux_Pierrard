@@ -1,0 +1,448 @@
+(footprint "694108106102"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "<b>WR-DC DC Power Jack Right Angled SMT Ø 6.4 with 4 soldering pads & pegs")
+	(property "Reference" "REF**"
+		(at 0 -8.135 0)
+		(layer "F.SilkS")
+		(uuid "6ac0b989-13c5-456d-905b-b318644eb7db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "694108106102"
+		(at 4.12 8.365 0)
+		(layer "F.Fab")
+		(uuid "8abf936e-78bb-4d52-a185-c4614e600913")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5a306fc7-1fa6-471f-bba0-4c18b6039db9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "abfe11d7-539a-47c4-b615-bc480ae67bf3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Wurth Electronics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d61ca83-be8a-4e87-9001-21d3bca99045")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "DCPowerJack_SMT_R/A_Plastic_CenterPin_ Ø2.5_4Sold.Pads"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "42dfbed5-0569-4174-9cb9-8c467b662490")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d888633-9d92-4233-a062-1c69aef2b0c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MOUNT" "SMT"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "23d69a63-2190-445e-9098-bdeb6c09082a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "IR" "5A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ecca2de-7bc1-4342-9e81-e373465a7cc9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eb13da4e-15d2-4252-88c4-c850e6567754")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/694108106102/Wurth+Electronics/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "28fb5669-ebf2-4098-9dd3-ee271a11dec0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DATASHEET-URL" "https://www.we-online.com/catalog/datasheet/694108106102.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6e1189a6-7e66-4c7e-b110-b4f041d36029")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "694108106102"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "736ac8a2-87e0-4215-b74f-3d3df6dce026")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "WORKING-VOLTAGE" "24V(AC)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bca77c5a-0e18-42e4-b34d-ef7709674f01")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PART-NUMBER" "694108106102"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8511f107-e42e-4a41-b4b3-a1ca4dd6cf3a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "TYPE" "Right Angled"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8f52168d-1bcb-46c6-9ae7-31143fc763d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "651deab8-01d9-4642-92a1-fbf3b7a857ed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/694108106102/Wurth+Electronics/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b151c25b-b841-45c6-8e64-a97c03d68559")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Device" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a60bfb24-f64e-44d0-b423-4e900c9ab2be")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Pins" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bbe5b4fe-8213-4c7f-aabb-5bab5f3c5b54")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -7.35 -4.6)
+		(end -7.35 4.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "88d33e95-a3c7-4bbf-8f57-ce2fd8b5c3b4")
+	)
+	(fp_line
+		(start -7.35 4.6)
+		(end -3.6 4.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b42cc456-31f5-453f-a7fe-227fcabf0317")
+	)
+	(fp_line
+		(start -3.6 -4.6)
+		(end -7.35 -4.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d4d5227a-c919-4943-ac53-7f650ae0b2c0")
+	)
+	(fp_line
+		(start -0.9 -4.6)
+		(end 2.6 -4.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "366d7e2d-d29f-4b14-86d2-e2bb1cf2061b")
+	)
+	(fp_line
+		(start -0.9 4.6)
+		(end 2.6 4.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "43cce75f-c206-491e-affc-90068a80f889")
+	)
+	(fp_line
+		(start 5.2 -4.6)
+		(end 7.55 -4.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "440433a0-94d8-4cf3-8c0b-1511e442368d")
+	)
+	(fp_line
+		(start 7.55 -4.6)
+		(end 7.55 4.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3c4a0273-ac5a-4a36-86bd-0e7dd1394c1b")
+	)
+	(fp_line
+		(start 7.55 4.6)
+		(end 5.2 4.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0eb128c2-7218-4d94-b67a-3896e0862195")
+	)
+	(fp_poly
+		(pts
+			(xy -7.55 -6.75) (xy 7.75 -6.75) (xy 7.75 6.75) (xy -7.55 6.75)
+		)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.CrtYd")
+		(uuid "38001508-dbc9-49b9-bb11-14563c94c72e")
+	)
+	(fp_line
+		(start -7.25 -4.5)
+		(end 7.45 -4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d4d03c5b-5e92-4852-a631-6adcf70f0ff9")
+	)
+	(fp_line
+		(start -7.25 4.5)
+		(end -7.25 -4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5b7a1f17-5d2c-4e82-acd6-2cf5743846e9")
+	)
+	(fp_line
+		(start -7.25 4.5)
+		(end 7.45 4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6052f3b2-6877-46b3-a84a-460f93f449b1")
+	)
+	(fp_line
+		(start 7.45 4.5)
+		(end 7.45 -4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7ac148f7-1270-4aab-bd89-234225f0d953")
+	)
+	(fp_text user "1"
+		(at -2.75 -2.8 0)
+		(layer "F.SilkS")
+		(uuid "e954a6d2-32ed-4c1c-a479-08d2b83808c5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -2.25 0)
+		(size 1.6 1.6)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "59966093-e907-41ab-a81a-41863da7853b")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.25 0)
+		(size 1.8 1.8)
+		(drill 1.8)
+		(layers "*.Cu" "*.Mask")
+		(uuid "c5b898e4-d3ce-4604-a045-1975d36a1880")
+	)
+	(pad "1" smd rect
+		(at -2.25 -5.5)
+		(size 2 2.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "73f676a7-759e-45e8-b457-c8f5be34cc66")
+	)
+	(pad "2" smd rect
+		(at -2.25 5.5)
+		(size 2 2.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "52e5576f-1090-45b8-adcd-c70caac8b593")
+	)
+	(pad "3" smd rect
+		(at 3.9 5.5)
+		(size 2 2.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "67f7217c-a600-4c70-8598-20c2e28a5b15")
+	)
+	(pad "A1" smd rect
+		(at 3.9 -5.5)
+		(size 2 2.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "e5bfde12-5c50-4453-8bc5-1e9b383d584e")
+	)
+	(embedded_fonts no)
+)
