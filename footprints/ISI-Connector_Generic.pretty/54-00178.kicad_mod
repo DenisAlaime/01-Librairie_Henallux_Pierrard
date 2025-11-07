@@ -495,4 +495,15 @@
 		(uuid "893fcf1d-1a77-4ef2-8a5a-7e5d48cc8fb2")
 	)
 	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI-Connectors.3dshapes/54-00178.STEP"
+		(offset
+			(xyz 2.5 1.25 1.75)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )
