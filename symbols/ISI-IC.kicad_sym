@@ -368,7 +368,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm"
+		(property "Footprint" "ISI-IC:MSOP-10_3x3mm_P0.5mm"
 			(at 16.51 -16.51 0)
 			(effects
 				(font

@@ -1,8 +1,9 @@
-(footprint "TRIM_PT01-D130D-A102"
+(footprint "PT01-D130D-A102"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
+	(descr "Potentiomètre Same Sky ")
 	(property "Reference" "REF**"
 		(at -1.525 -6.935 0)
 		(layer "F.SilkS")
@@ -14,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "TRIM_PT01-D130D-A102"
+	(property "Value" "PT01-D130D-A102"
 		(at 8.1 9.635 0)
 		(layer "F.Fab")
 		(uuid "511354e3-6f44-4284-9df5-c011ccd14200")

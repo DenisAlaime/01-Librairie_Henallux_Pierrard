@@ -1,7 +1,7 @@
 (footprint "MSOP-10_3x3mm_P0.5mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "10-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
 	(tags "SSOP 0.5")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "6a56042e-e1e3-49e2-b775-5132d67cff02")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -133,7 +123,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 		(uuid "1bd30f36-f9db-486f-b436-bfa2ce9be231")
 	)
@@ -238,66 +228,77 @@
 			)
 		)
 	)
-	(pad "1" smd rect
+	(pad "1" smd roundrect
 		(at -2.2 -1)
 		(size 1.4 0.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "bddf6d4e-48d4-4855-97c0-85e1591938ea")
 	)
-	(pad "2" smd rect
+	(pad "2" smd roundrect
 		(at -2.2 -0.5)
 		(size 1.4 0.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "af3c1d0f-ee57-4fad-a9bf-0a7275ab4890")
 	)
-	(pad "3" smd rect
+	(pad "3" smd roundrect
 		(at -2.2 0)
 		(size 1.4 0.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "cba0ba5d-2caf-4415-9f24-ac010200dc85")
 	)
-	(pad "4" smd rect
+	(pad "4" smd roundrect
 		(at -2.2 0.5)
 		(size 1.4 0.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "e4661ba8-fe69-4f00-af94-cae83013bd29")
 	)
-	(pad "5" smd rect
+	(pad "5" smd roundrect
 		(at -2.2 1)
 		(size 1.4 0.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "a52d01e4-7a29-4510-9303-d38eac24e080")
 	)
-	(pad "6" smd rect
+	(pad "6" smd roundrect
 		(at 2.2 1)
 		(size 1.4 0.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "4a5177c0-eafa-4edd-999b-1b1c1fa16451")
 	)
-	(pad "7" smd rect
+	(pad "7" smd roundrect
 		(at 2.2 0.5)
 		(size 1.4 0.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "02c5ceac-d1ce-4e5b-a618-b2ec7bd5c65d")
 	)
-	(pad "8" smd rect
+	(pad "8" smd roundrect
 		(at 2.2 0)
 		(size 1.4 0.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "9aa088b4-8211-41ce-b15d-c00ba328c33a")
 	)
-	(pad "9" smd rect
+	(pad "9" smd roundrect
 		(at 2.2 -0.5)
 		(size 1.4 0.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "f6d7887e-ddfd-4462-bb14-943deb849b8e")
 	)
-	(pad "10" smd rect
+	(pad "10" smd roundrect
 		(at 2.2 -1)
 		(size 1.4 0.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "40d83c20-d4f1-4e7c-9400-a3911ef1b662")
 	)
+	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-10_3x3mm_P0.5mm.wrl"
 		(offset
 			(xyz 0 0 0)
