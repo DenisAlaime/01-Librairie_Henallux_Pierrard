@@ -1,4 +1,4 @@
-26594270254352441
+26597818631430841
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62076,7 +62076,7 @@ SOIC SO
 14
 14
 ISI-IC
-SO_SOIC-16_3.9x9.9mm_P1.27mm
+SO_SOIC-16 Narrow_3.9x9.9mm_P1.27mm
 SOIC, 16 Pin (JEDEC MS-012AC, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOIC SO
 0
@@ -62152,6 +62152,20 @@ D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
 0
 8
 3
+ISI-IC
+TQFP-48_7x7mm_P0.5mm
+TQFP, 48 Pin (JEDEC MS-026 variation ABC, 1.00mm body thickness, https://www.jedec.org/document_search?search_api_views_fulltext=MS-026, https://ww1.microchip.com/downloads/en/PackagingSpec/00000049BZ.pdf#page=666), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP P48GA-50-HAA-2 pkg_3304 PTQP0048KC-A C48-11 PFB0048A
+0
+48
+48
+ISI-IC
+TSSOP-8_4.4x3mm_P0.65mm
+TSSOP, 8 Pin (JEDEC MO-153 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+8
+8
 ISI-IC
 TSSOP-14_4.4x5mm_P0.65mm
 TSSOP, 14 Pin (JEDEC MO-153 Var AB-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py

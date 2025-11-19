@@ -1,0 +1,261 @@
+(footprint "L_Wurth_WE-LHMI-1040"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Shielded Power Inductor, body 11x10x3.8mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-1040")
+	(tags "SMT")
+	(property "Reference" "REF**"
+		(at 0 -6.25 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "2d67fdf3-0661-4579-a08e-cb622431d9b5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Wurth_WE-LHMI-1040"
+		(at 0 6.25 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b21f7d11-0ba0-4040-98d3-e596d3aa3326")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d026c931-05ff-411e-a7c9-74ec9836467f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bec84abd-a5f8-423a-8962-5bb131ef3895")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -5.61 5.11)
+		(end -5.61 2.01)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "20ddf299-0e7d-4756-bded-0593f1c95b15")
+	)
+	(fp_line
+		(start -5.61 5.11)
+		(end 5.61 5.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1946254d-eaa0-4a2f-ba7b-0574521109de")
+	)
+	(fp_line
+		(start 0 -5.11)
+		(end 5.61 -5.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "911f29da-ca9c-44c5-8cfc-af482c64b05d")
+	)
+	(fp_line
+		(start 5.61 -5.11)
+		(end 5.61 -2.01)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a3d77229-8fad-4ee4-8d16-7d26fc4323c0")
+	)
+	(fp_line
+		(start 5.61 5.11)
+		(end 5.61 2.01)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0e73b387-53d8-402e-a0be-eda57d6e15fe")
+	)
+	(fp_rect
+		(start -7.05 -5.25)
+		(end 7.05 5.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "db633ab8-ccfc-49d2-8514-f1a84f5eadbc")
+	)
+	(fp_line
+		(start -5.5 -2.5)
+		(end -5.5 5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c98de0c5-ccf8-49fe-b284-938ac53e1c19")
+	)
+	(fp_line
+		(start -5.5 5)
+		(end 5.5 5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7a70cf7e-4409-4911-9787-208a88d6def7")
+	)
+	(fp_line
+		(start -3 -5)
+		(end -5.5 -2.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3fee7902-3017-4312-8f4b-ceeeb6b7791c")
+	)
+	(fp_line
+		(start 5.5 -5)
+		(end -3 -5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9ef2dcba-6887-4f63-8b5f-89f233558f36")
+	)
+	(fp_line
+		(start 5.5 5)
+		(end 5.5 -5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "104e9739-c709-4964-ba43-0539a1335386")
+	)
+	(fp_text user "Solder Resist"
+		(at 0 -2.625 0)
+		(unlocked yes)
+		(layer "Cmts.User")
+		(uuid "5a5f083d-d659-4657-b86b-478417bad872")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6d30efe6-6851-44c8-8bb1-97b4ace576bc")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -4.75 0)
+		(size 4.1 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "eda96745-f8d9-411a-8fbc-6db42edf1a29")
+	)
+	(pad "2" smd rect
+		(at 4.75 0)
+		(size 4.1 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "674fb367-4c1a-4e99-ba26-9c353d154ab6")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F.Cu" "Dwgs.User")
+		(uuid "a3c388a9-4626-448b-8d41-8623b6c3d275")
+		(name "Solder Resist")
+		(hatch full 0.1)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints not_allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -2.7 5.25) (xy 2.7 5.25) (xy 2.7 -5.25) (xy -2.7 -5.25)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "${WE_3DMODEL_DIR}/Inductor_SMD_Wurth.3dshapes/L_Wurth_WE-LHMI-1040.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KICAD_USER_3RD_DIR}/ISI-Switch_Wurth.3dshapes/L_Wurth_WE-LHMI-1040.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
