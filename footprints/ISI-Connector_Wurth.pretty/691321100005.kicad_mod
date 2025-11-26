@@ -18,6 +18,7 @@
 	(property "Value" "691321100005"
 		(at 4.12 4.365 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "de185141-fd8a-48e1-9e0e-49c7522f8d70")
 		(effects
 			(font
@@ -195,4 +196,15 @@
 		(uuid "521512c2-d5d1-4504-8547-8ac864cc748a")
 	)
 	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI-Connector_Wurth.3dshapes/691321100005.stp"
+		(offset
+			(xyz 0 0.75 4.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )

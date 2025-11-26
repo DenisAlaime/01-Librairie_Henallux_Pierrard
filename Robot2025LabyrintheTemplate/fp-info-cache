@@ -1,4 +1,4 @@
-26597818631430841
+26638223729842556
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61565,6 +61565,27 @@ ISI-Connector_Wurth
 4
 4
 ISI-Connector_Wurth
+691321100005
+<b>WR-TBL Serie 3211 - 3.50 mm Vertical PCB Header<br></b>Max Height = 9.2mm , Pitch 3.5mm , 5pins
+
+0
+5
+5
+ISI-Connector_Wurth
+691321100006
+<b>WR-TBL Serie 3211 - 3.50 mm Vertical PCB Header<br></b>Max Height = 9.2mm , Pitch 3.5mm , 6pins
+
+0
+6
+6
+ISI-Connector_Wurth
+691321100008
+<b>WR-TBL Serie 3211 - 3.50 mm Vertical PCB Header<br></b>Max Height = 9.2mm , Pitch 3.5mm , 6pins
+
+0
+8
+8
+ISI-Connector_Wurth
 691321300004
 <b>WR-TBL Serie 321 - 3.81 mm Vertical PCB Header<br></b>Max Height = 9.2mm , Pitch 3.81mm , 4pins
 
@@ -61936,6 +61957,20 @@ QFP50P990X990X120-48N
 48
 48
 ISI-IC
+RPA0010A-MFG
+
+TPS56837HARPAR 
+0
+10
+10
+ISI-IC
+RPA0010A-MFG_
+
+TPS56837HARPAR 
+0
+13
+10
+ISI-IC
 SO-14_5.3x10.2mm_P1.27mm
 SO, 14 Pin (https://www.ti.com/lit/ml/msop002a/msop002a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SO SO
@@ -62215,6 +62250,125 @@ inductor handsolder
 0
 2
 2
+ISI-Inductor
+L_Wurth_WE-LHMI-1040
+Shielded Power Inductor, body 11x10x3.8mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-1040
+SMT
+0
+2
+2
+ISI-Inductor
+L_Wurth_WE-LHMI-1335
+Shielded Power Inductor, body 13.5x12.6x3.3mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-1335
+SMT
+0
+2
+2
+ISI-Inductor
+L_Wurth_WE-LHMI-1365
+Shielded Power Inductor, body 13.5x12.5x6.2mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-1365
+SMT
+0
+2
+2
+ISI-Inductor
+L_Wurth_WE-LHMI-4012
+Shielded Power Inductor, body 4.45x4.06x1mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-4012
+SMT
+0
+2
+2
+ISI-Inductor
+L_Wurth_WE-LHMI-4020
+Shielded Power Inductor, body 4.45x4.06x1.8mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/4020HT
+SMT
+0
+2
+2
+ISI-Inductor
+L_Wurth_WE-LHMI-4020HT
+Shielded Power Inductor, body 4.45x4.06x1.8mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-SIZE-4020HT
+SMT
+0
+2
+2
+ISI-Inductor
+L_Wurth_WE-LHMI-5020
+Shielded Power Inductor, body 5.7x5.2x1.8mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-5020
+SMT
+0
+2
+2
+ISI-Inductor
+L_Wurth_WE-LHMI-5020HT
+Shielded Power Inductor, body 5.7x5.2x1.8mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-SIZE-5020HT
+SMT
+0
+2
+2
+ISI-Inductor
+L_Wurth_WE-LHMI-5030
+Shielded Power Inductor, body 5.7x5.2x2.8mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-5030
+SMT
+0
+2
+2
+ISI-Inductor
+L_Wurth_WE-LHMI-7030
+Shielded Power Inductor, body 7.3x6.6x2.8mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-7030
+SMT
+0
+2
+2
+ISI-Inductor
+L_Wurth_WE-LHMI-7030HT
+Shielded Power Inductor, body 7.3x6.6x2.8mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-7030-HT
+SMT
+0
+2
+2
+ISI-Inductor
+L_Wurth_WE-LHMI-7050
+Shielded Power Inductor, body 7.3x6.6x4.8mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-7050
+SMT
+0
+2
+2
+ISI-Inductor
+L_Wurth_WE-LHMI-7050HT
+Shielded Power Inductor, body 7.3x6.6x4.8mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-7050-HT
+SMT
+0
+2
+2
+ISI-Inductor
+L_Wurth_WE-LHMI-8030
+Shielded Power Inductor, body 9.7x8.5x3mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-8030
+SMT
+0
+2
+2
+ISI-Inductor
+L_Wurth_WE-LHMI-8040_PW3
+Shielded Power Inductor, body 9.7x8.5x4mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-8040
+SMT
+0
+2
+2
+ISI-Inductor
+L_Wurth_WE-LHMI-8040_PW5
+Shielded Power Inductor, body 9.7x8.5x4mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-8040
+SMT
+0
+2
+2
+ISI-Inductor
+NAC-15-0301
+NAC-15-0301-1
+Inductor
+0
+2
+2
 ISI-LCD
 LCD1602
 LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
@@ -62439,6 +62593,13 @@ Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W le
 0
 2
 2
+ISI-Resistor
+R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm
+WSK25122L000FEA-4
+Resistor
+0
+4
+4
 ISI-Switch_Wurth
 450301014042
 

@@ -203,7 +203,7 @@
 		(uuid "3e9d5000-6782-4b84-9355-c3996a8ef04f")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/3Dstep/691321100006.stp"
+	(model "${KICAD_USER_3RD_DIR}/ISI-Connector_Wurth.3dshapes/691321100006.stp"
 		(offset
 			(xyz 0 0.75 4.5)
 		)
@@ -211,7 +211,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -0 -0 -0)
 		)
 	)
 )

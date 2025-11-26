@@ -211,7 +211,7 @@
 	)
 	(fp_line
 		(start 6.6 -5.95)
-		(end 6.6 -3.3)
+		(end 6.6 -3.6)
 		(stroke
 			(width 0.2)
 			(type solid)
@@ -220,8 +220,8 @@
 		(uuid "3f2b307b-ab1c-474b-8d21-16fdb5caf9c0")
 	)
 	(fp_line
-		(start 6.6 -1.7)
-		(end 6.6 -0.8)
+		(start 6.6 -1.5)
+		(end 6.6 -1)
 		(stroke
 			(width 0.2)
 			(type solid)
@@ -230,8 +230,8 @@
 		(uuid "4bad58c6-5a37-4eec-ba40-bbab5bb637c2")
 	)
 	(fp_line
-		(start 6.6 0.8)
-		(end 6.6 1.7)
+		(start 6.6 1)
+		(end 6.6 1.5)
 		(stroke
 			(width 0.2)
 			(type solid)
@@ -240,7 +240,7 @@
 		(uuid "c2d52a77-e5f5-4d8a-a040-4eead6065057")
 	)
 	(fp_line
-		(start 6.6 3.3)
+		(start 6.6 3.6)
 		(end 6.6 5.95)
 		(stroke
 			(width 0.2)
@@ -602,28 +602,6 @@
 		(effects
 			(font
 				(size 0.8 0.8)
-				(thickness 0.15)
-			)
-		)
-	)
-	(fp_text user "cutout area"
-		(at -1.1 4.9 0)
-		(layer "Edge.Cuts")
-		(uuid "9986e207-05ef-48a8-bf2a-b3ae88c614d6")
-		(effects
-			(font
-				(size 0.24 0.24)
-				(thickness 0.15)
-			)
-		)
-	)
-	(fp_text user "cutout area"
-		(at -1.1 -4.4 0)
-		(layer "Edge.Cuts")
-		(uuid "a14e1a29-cbe4-4f23-9316-e1114a6c63ac")
-		(effects
-			(font
-				(size 0.24 0.24)
 				(thickness 0.15)
 			)
 		)
