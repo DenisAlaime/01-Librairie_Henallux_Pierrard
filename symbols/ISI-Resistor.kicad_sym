@@ -35,7 +35,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/3/40/1/3314.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -51,6 +51,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "PartNumber" " 3314G-2-503E "
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Emplacement" "à déterminer"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(property "ki_keywords" "resistor variable"
@@ -233,7 +249,7 @@
 				)
 			)
 		)
-		(property "Value" "B57861S103F40"
+		(property "Value" "10K"
 			(at 3.175 0 90)
 			(effects
 				(font
@@ -260,6 +276,24 @@
 			)
 		)
 		(property "Description" "Thermistances CTN 10k 3988 1%"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PartNumber" "B57861S103F40"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Emplacement" ""
 			(at 0 0 0)
 			(effects
 				(font
@@ -505,7 +539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/3/6118/1/pt01_d115d_b503.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -521,6 +555,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "PartNumber" " PT01-D115D-B503"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Emplacement" "à déterminer"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(property "ki_keywords" "resistor variable"
@@ -734,6 +784,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "PartNumber" "à déterminer"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Emplacement" "à déterminer"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(property "ki_keywords" "resistor variable"
@@ -951,6 +1017,24 @@
 				(hide yes)
 			)
 		)
+		(property "PartNumber" "à déterminer"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Emplacement" "à déterminer"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "R res resistor"
 			(at 0 0 0)
 			(effects
@@ -1124,6 +1208,22 @@
 				(hide yes)
 			)
 		)
+		(property "PartNumber" "à déterminer"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Emplacement" "à déterminer"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R res resistor"
 			(at 0 0 0)
 			(effects
@@ -1289,6 +1389,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol 1206 SMD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PartNumber" "Voir farde de resistance"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Emplacement" "Voir farde de resistance"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1470,6 +1588,22 @@
 				(hide yes)
 			)
 		)
+		(property "PartNumber" "à déterminer"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Emplacement" "à déterminer"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "R res resistor"
 			(at 0 0 0)
 			(effects
@@ -1641,6 +1775,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "PartNumber" "à déterminer"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Emplacement" "à déterminer"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(property "ki_keywords" "thermistor NTC resistor sensor RTD"
@@ -1898,74 +2048,20 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "0.889"
-			(at 19.05 -394.92 0)
+		(property "PartNumber" "WSK25122L000FEA"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
-				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Vishay"
-			(at 19.05 -494.92 0)
+		(property "Emplacement" "à déterminer"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "WSK25122L000FEA"
-			(at 19.05 -594.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "71-WSK25122L000FEA"
-			(at 19.05 -694.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK25122L000FEA?qs=fncU5wK7Cm8km%2FihgqCoQQ%3D%3D"
-			(at 19.05 -794.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "WSK25122L000FEA"
-			(at 19.05 -894.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/wsk25122l000fea/vishay"
-			(at 19.05 -994.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
 			)
 		)
 		(symbol "WSK25122L000FEA_1_1"
@@ -2106,74 +2202,20 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "0.889"
-			(at 19.05 -394.92 0)
+		(property "PartNumber" "WSK25125L000FEA"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
-				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Vishay"
-			(at 19.05 -494.92 0)
+		(property "Emplacement" "à déterminer"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "WSK25122L000FEA"
-			(at 19.05 -594.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "71-WSK25122L000FEA"
-			(at 19.05 -694.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSK25122L000FEA?qs=fncU5wK7Cm8km%2FihgqCoQQ%3D%3D"
-			(at 19.05 -794.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "WSK25122L000FEA"
-			(at 19.05 -894.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/wsk25122l000fea/vishay"
-			(at 19.05 -994.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
 			)
 		)
 		(symbol "WSK25125L000FEA_1_1"
