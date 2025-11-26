@@ -19,12 +19,13 @@
 			)
 		)
 		(property "Value" "691321100002"
-			(at -4.95 -3.01 0)
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "ISI-Connector_Wurth:691321100002"
@@ -37,7 +38,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/redexpert/spec/691321100002?ae"
 			(at 0 0 0)
 			(effects
 				(font
@@ -46,7 +47,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SERIE 3211 - 3.50MM VERTICAL PCB HEADER WR-TBL"
 			(at 0 0 0)
 			(effects
 				(font
@@ -55,193 +56,21 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Würth Elektronik"
+		(property "ParteNumber" "691321100002"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Description_1" "3211; 3.5mm Pitch Straight Pluggable Term Block, PCB Header, Through Hole, 2 Way | Wurth Electronics 691321100002"
+		(property "Emplacement" "à déterminer"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MOUNT" "THT"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "IR-VDE" "10.5A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "IR-UL" "10A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "VALUE" "691321100002"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "WORKING-VOLTAGE-UL" "300V (AC)"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PART-NUMBER" "691321100002"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/691321100002/Wurth+Elektronik/view-part/?ref=snap"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DATASHEET-URL" "https://www.we-online.com/redexpert/spec/691321100002?ae"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "691321100002"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PITCH" "3.5mm"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PINS" "2"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "WORKING-VOLTAGE-VDE" "300V (AC)"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "TYPE" "Vertical"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/691321100002/Wurth+Elektronik/view-part/?ref=eda"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -378,7 +207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691321100004.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -387,7 +216,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Borniers enfichable WR-TBL 300VAC 10A 4P Straight"
 			(at 0 0 0)
 			(effects
 				(font
@@ -396,103 +225,21 @@
 				(hide yes)
 			)
 		)
-		(property "MOUNT" "THT"
+		(property "ParteNumber" "691321100004"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "IR-VDE" "10.5A"
+		(property "Emplacement" "à déterminer"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "IR-UL" "10A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "WORKING-VOLTAGE-UL" "300V (AC)"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PINS" "4"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DATASHEET-URL" "https://www.we-online.com/catalog/datasheet/691321100004.pdf"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PITCH" "3.5mm"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PART-NUMBER" "691321100004"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "WORKING-VOLTAGE-VDE" "300V (AC)"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "TYPE" "Vertical"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -692,12 +439,13 @@
 			)
 		)
 		(property "Value" "691321100005"
-			(at -7.49 -3.01 0)
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "ISI-Connector_Wurth:691321100005"
@@ -710,7 +458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691321100005.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -719,7 +467,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Borniers enfichable WR-TBL 300VAC 10A 5P Straight"
 			(at 0 0 0)
 			(effects
 				(font
@@ -728,113 +476,21 @@
 				(hide yes)
 			)
 		)
-		(property "MOUNT" "THT"
+		(property "ParteNumber" "691321100005"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "IR-VDE" "10.5A"
+		(property "Emplacement" "à déterminer"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "IR-UL" "10A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "VALUE" "691321100005"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "WORKING-VOLTAGE-UL" "300V (AC)"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PINS" "5"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DATASHEET-URL" "https://www.we-online.com/catalog/datasheet/691321100005.pdf"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PITCH" "3.5mm"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PART-NUMBER" "691321100005"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "WORKING-VOLTAGE-VDE" "300V (AC)"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "TYPE" "Vertical"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -1037,6 +693,8 @@
 					)
 				)
 			)
+		)
+		(symbol "691321100005_1_0"
 			(pin passive line
 				(at 5.08 -5.08 90)
 				(length 2.54)
@@ -1075,12 +733,13 @@
 			)
 		)
 		(property "Value" "691321100006"
-			(at -7.49 -3.01 0)
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "ISI-Connector_Wurth:691321100006"
@@ -1093,7 +752,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691321100006.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1102,7 +761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Borniers enfichable WR-TBL 300VAC 10A 6P Straight"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1111,113 +770,21 @@
 				(hide yes)
 			)
 		)
-		(property "MOUNT" "THT"
+		(property "ParteNumber" "691321100006"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "IR-VDE" "10.5A"
+		(property "Emplacement" "à déterminer"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "IR-UL" "10A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "VALUE" "691321100006"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "WORKING-VOLTAGE-UL" "300V (AC)"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PINS" "6"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DATASHEET-URL" "https://www.we-online.com/catalog/datasheet/691321100006.pdf"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PITCH" "3.5mm"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PART-NUMBER" "691321100006"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "WORKING-VOLTAGE-VDE" "300V (AC)"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "TYPE" "Vertical"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -1461,6 +1028,8 @@
 					)
 				)
 			)
+		)
+		(symbol "691321100006_1_0"
 			(pin passive line
 				(at 7.62 -5.08 90)
 				(length 2.54)
@@ -1499,12 +1068,12 @@
 			)
 		)
 		(property "Value" "691321100008"
-			(at -7.49 -3.01 0)
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" "ISI-Connector_Wurth:691321100008"
@@ -1516,7 +1085,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691321100008.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1525,7 +1094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Borniers enfichable WR-TBL 300VAC 10A 48 Straight"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1534,113 +1103,21 @@
 				(hide yes)
 			)
 		)
-		(property "MOUNT" "THT"
+		(property "ParteNumber" "691321100008"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "IR-VDE" "10.5A"
+		(property "Emplacement" "à déterminer"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "IR-UL" "10A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "VALUE" "691321100006"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "WORKING-VOLTAGE-UL" "300V (AC)"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PINS" "6"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DATASHEET-URL" "https://www.we-online.com/catalog/datasheet/691321100006.pdf"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PITCH" "3.5mm"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PART-NUMBER" "691321100006"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "WORKING-VOLTAGE-VDE" "300V (AC)"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "TYPE" "Vertical"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -1912,6 +1389,8 @@
 					)
 				)
 			)
+		)
+		(symbol "691321100008_1_0"
 			(pin passive line
 				(at 5.08 -5.08 90)
 				(length 2.54)
@@ -1948,8 +1427,6 @@
 					)
 				)
 			)
-		)
-		(symbol "691321100008_1_0"
 			(pin passive line
 				(at 10.16 -5.08 90)
 				(length 2.54)
@@ -2025,7 +1502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/694108106102.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2034,7 +1511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "WR-DC DC Power Jack Right Angled SMT"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2043,143 +1520,21 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Wurth Electronics"
+		(property "ParteNumber" "694108106102"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Description_1" "DCPowerJack_SMT_R/A_Plastic_CenterPin_ Ø2.5_4Sold.Pads"
+		(property "Emplacement" "à déterminer"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MOUNT" "SMT"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "IR" "5A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/694108106102/Wurth+Electronics/view-part/?ref=snap"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DATASHEET-URL" "https://www.we-online.com/catalog/datasheet/694108106102.pdf"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "694108106102"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "WORKING-VOLTAGE" "24V(AC)"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PART-NUMBER" "694108106102"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "TYPE" "Right Angled"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/694108106102/Wurth+Electronics/view-part/?ref=eda"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
