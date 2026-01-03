@@ -2093,7 +2093,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "SMBJ14A"
+	(symbol "SMBJ10A"
 		(pin_numbers
 			(hide yes)
 		)
@@ -2112,7 +2112,7 @@
 				)
 			)
 		)
-		(property "Value" "SMBJ14A"
+		(property "Value" "SMBJ10A"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -2120,7 +2120,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMB"
+		(property "Footprint" "ISI-Diodes:D_SMB_Handsoldering"
 			(at 0 -5.08 0)
 			(effects
 				(font
@@ -2129,7 +2129,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/sm6t.pdf"
+		(property "Datasheet" "https://www.littelfuse.com/products/overvoltage-protection/tvs-diodes/surface-mount/smbj/smbj10a"
 			(at -1.27 0 0)
 			(effects
 				(font
@@ -2138,7 +2138,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "600W unidirectional Transil Transient Voltage Suppressor, 14Vrwm, DO-214AA - SMB"
+		(property "Description" "600W unidirectional Transil Transient Voltage Suppressor, 10Vrwm, DO-214AA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2165,7 +2165,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "SMBJ14A_0_1"
+		(symbol "SMBJ10A_0_1"
 			(polyline
 				(pts
 					(xy -0.762 1.27) (xy -1.27 1.27) (xy -1.27 -1.27)
@@ -2191,25 +2191,7 @@
 				)
 			)
 		)
-		(symbol "SMBJ14A_1_1"
-			(pin passive line
-				(at -3.81 0 0)
-				(length 2.54)
-				(name "A1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
+		(symbol "SMBJ10A_1_1"
 			(pin passive line
 				(at 3.81 0 180)
 				(length 2.54)
@@ -3497,6 +3479,70 @@
 			)
 		)
 		(property "Description" "600W unidirectional Transil Transient Voltage Suppressor, 75Vrwm, DO-214AA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "diode TVS voltage suppressor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "D*SMB*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "SMBJ14A"
+		(extends "SMBJ10A")
+		(property "Reference" "D"
+			(at 0 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SMBJ14A"
+			(at 0 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ISI-Diodes:D_SMB_Handsoldering"
+			(at 0 -5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -1.27 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "600W unidirectional Transil Transient Voltage Suppressor, 14Vrwm, DO-214AA"
 			(at 0 0 0)
 			(effects
 				(font
