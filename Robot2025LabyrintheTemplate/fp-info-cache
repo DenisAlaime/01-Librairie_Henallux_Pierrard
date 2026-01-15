@@ -1,4 +1,4 @@
-26638463281145701
+26643790893953769
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61656,6 +61656,13 @@ Diode DO-201 series Axial Horizontal pin pitch 15.24mm  length 9.53mm diameter 5
 2
 2
 ISI-Diodes
+D_MiniMELF_Handsoldering
+Diode Mini-MELF (SOD-80) Handsoldering
+Diode Mini-MELF (SOD-80) Handsoldering
+0
+2
+2
+ISI-Diodes
 D_SMA
 Diode SMA (DO-214AC)
 Diode SMA (DO-214AC)
@@ -61694,6 +61701,13 @@ ISI-Diodes
 D_SMC_Handsoldering
 Diode SMC (DO-214AB) Handsoldering
 Diode SMC (DO-214AB) Handsoldering
+0
+2
+2
+ISI-Diodes
+D_SMF
+Diode SMF (DO-219AB), http://www.vishay.com/docs/95572/smf_do-219ab.pdf
+Diode SMF (DO-214AB)
 0
 2
 2
@@ -62072,6 +62086,13 @@ ISI-IC
 SOT-323_SC-70_Handsoldering
 SOT-323, SC-70 Handsoldering
 SOT-323 SC-70 Handsoldering
+0
+3
+3
+ISI-IC
+SOT-416_SC-75_SOT-523
+SOT-416, https://www.nxp.com/docs/en/package-information/SOT416.pdf
+SOT-416
 0
 3
 3
