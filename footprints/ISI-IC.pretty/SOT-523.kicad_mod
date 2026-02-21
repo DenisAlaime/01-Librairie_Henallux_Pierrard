@@ -1,5 +1,5 @@
 (footprint "SOT-523"
-	(version 20241129)
+	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
@@ -23,18 +23,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "00000000-0000-0000-0000-000000000000")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -188,7 +176,7 @@
 		(uuid "8f3e2063-9cf7-4291-8321-9d633933d66e")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 -90)
+		(at 0 0 270)
 		(layer "F.Fab")
 		(uuid "ce04a240-9d53-4fba-8da5-8bac26762842")
 		(effects
@@ -199,22 +187,22 @@
 		)
 	)
 	(pad "1" smd roundrect
-		(at -0.645 -0.5 180)
-		(size 0.51 0.4)
+		(at -0.795 -0.5 180)
+		(size 0.8 0.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "b2d00d60-7471-4c6a-8b3a-f954f0c214c2")
 	)
 	(pad "2" smd roundrect
-		(at -0.645 0.5 180)
-		(size 0.51 0.4)
+		(at -0.795 0.5 180)
+		(size 0.8 0.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "9638949b-e4b4-43ae-b106-f6fd6bbf1501")
 	)
 	(pad "3" smd roundrect
-		(at 0.645 0 180)
-		(size 0.51 0.4)
+		(at 0.795 0 180)
+		(size 0.8 0.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "b119f0c8-2364-4020-aabd-f01b47d0c559")
