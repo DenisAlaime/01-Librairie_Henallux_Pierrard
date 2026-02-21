@@ -1394,7 +1394,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123F"
+		(property "Footprint" "ISI-Diodes:D_SOD-123F_Handsoldering"
 			(at 0 -4.445 0)
 			(effects
 				(font
