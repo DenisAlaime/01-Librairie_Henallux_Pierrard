@@ -3913,7 +3913,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ISI-Modules:StepDown_LM2596_Module_Amazon"
+		(property "Footprint" "ISI-Modules:DC-DC_DFR1015_DF_Robot"
 			(at -0.762 -7.112 0)
 			(effects
 				(font
