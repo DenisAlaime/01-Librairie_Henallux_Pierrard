@@ -195,15 +195,4 @@
 		(uuid "814515a0-22f5-435f-9847-eacbc95d8e4d")
 	)
 	(embedded_fonts no)
-	(model "${KICAD_USER_3RD_DIR}/ISI-Modules.3dshapes/DCDC_StepDown_LM2596_PinHeaders_Amazon.wrl"
-		(offset
-			(xyz 1.555 19.615 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
 )

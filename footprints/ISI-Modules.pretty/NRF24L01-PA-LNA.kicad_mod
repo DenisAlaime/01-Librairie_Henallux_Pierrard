@@ -1,0 +1,285 @@
+(footprint "NRF24L01-PA-LNA"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "NRF24L01 NRF24L01-PA-LNA Module")
+	(property "Reference" "REF**"
+		(at 16 9 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "925a3db3-688a-4021-a9c1-e207ff396277")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "E01-ML01DP5"
+		(at 6 9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3e93be11-a2d2-4cf6-8d72-366b83787dd5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "63c1ac3c-5598-4269-aa0d-aa9615aaa27d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39549fa5-b722-417a-9b8f-3b692d3bbda0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start 1 -33)
+		(end 17 8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7f10cf18-15c4-4ec0-830a-5be108bba691")
+	)
+	(fp_text user "VCC"
+		(at 12.065 -21.59 270)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "2eb5ddac-c79e-4c6e-950c-779709ccfe23")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "MISO"
+		(at 4.445 -26.67 270)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "3ba54a0a-f1b5-44ab-88b0-374f92139a4d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "GND"
+		(at 12.065 -26.67 270)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "63451bb9-1e58-4a78-932c-54570d86c71f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "SCK"
+		(at 6.985 -26.67 270)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "964cf542-f4c6-4b5b-bd3f-842d589c47e5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "~CSN"
+		(at 9.525 -21.59 270)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "bb472677-a663-4de9-80cc-20e65e5e5cec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "MOSI"
+		(at 6.985 -21.59 270)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c38838da-f29b-4cc7-8076-82a890c2ce3d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "IRQ"
+		(at 4.445 -21.59 270)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "efd4108f-fd53-4610-bfed-c281e388084e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "CE"
+		(at 9.525 -26.67 270)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f5122a61-7153-4390-8f6c-41b40fa96bff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 6 6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a35e1e11-dec0-4c3c-a310-dcfd55a848a6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 12.77 -31.55 90)
+		(size 2.2 1.5)
+		(drill 1
+			(offset 0.25 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "b0b0af2a-bb5f-4bd6-b286-3f98a566c608")
+	)
+	(pad "2" thru_hole oval
+		(at 12.77 -29.01 270)
+		(size 2.2 1.5)
+		(drill 1
+			(offset 0.25 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "4abed20e-d047-4dd7-b0c6-525682d2598a")
+	)
+	(pad "3" thru_hole oval
+		(at 10.23 -31.55 90)
+		(size 2.2 1.5)
+		(drill 1
+			(offset 0.25 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "72984e1d-3d6f-45bc-ba23-789e22ca119b")
+	)
+	(pad "4" thru_hole oval
+		(at 10.23 -29.01 270)
+		(size 2.2 1.5)
+		(drill 1
+			(offset 0.25 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "16beaa6b-5891-4f9b-8d95-74804552781c")
+	)
+	(pad "5" thru_hole oval
+		(at 7.69 -31.55 90)
+		(size 2.2 1.5)
+		(drill 1
+			(offset 0.25 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "3235f364-e350-4172-96d5-064a3bcae3c9")
+	)
+	(pad "6" thru_hole oval
+		(at 7.69 -29.01 270)
+		(size 2.2 1.5)
+		(drill 1
+			(offset 0.25 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "aaa18413-466b-4b81-a799-9dcd72dd1ad1")
+	)
+	(pad "7" thru_hole oval
+		(at 5.15 -31.55 90)
+		(size 2.2 1.5)
+		(drill 1
+			(offset 0.25 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "b34c0797-aebb-4297-8565-208582b045eb")
+	)
+	(pad "8" thru_hole oval
+		(at 5.15 -29.01 270)
+		(size 2.2 1.5)
+		(drill 1
+			(offset 0.25 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "d0108144-4a33-4cb1-bb5b-1e40ea9119ec")
+	)
+	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI-Modules.3dshapes/NRF24L01L+Antenna_verticale.stp"
+		(offset
+			(xyz 9 33.45 5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
+)

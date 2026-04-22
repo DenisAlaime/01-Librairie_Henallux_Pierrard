@@ -184,8 +184,8 @@
 	)
 	(pad "1" thru_hole oval
 		(at 12.77 -31.55 90)
-		(size 1.905 1.27)
-		(drill 0.7
+		(size 2.2 1.5)
+		(drill 1
 			(offset 0.3 0)
 		)
 		(layers "*.Cu" "*.Mask")
@@ -195,8 +195,8 @@
 	)
 	(pad "2" thru_hole oval
 		(at 12.77 -29.01 270)
-		(size 1.905 1.27)
-		(drill 0.7
+		(size 2.2 1.5)
+		(drill 1
 			(offset 0.3 0)
 		)
 		(layers "*.Cu" "*.Mask")
@@ -206,8 +206,8 @@
 	)
 	(pad "3" thru_hole oval
 		(at 10.23 -31.55 90)
-		(size 1.905 1.27)
-		(drill 0.7
+		(size 2.2 1.5)
+		(drill 1
 			(offset 0.3 0)
 		)
 		(layers "*.Cu" "*.Mask")
@@ -217,8 +217,8 @@
 	)
 	(pad "4" thru_hole oval
 		(at 10.23 -29.01 270)
-		(size 1.905 1.27)
-		(drill 0.7
+		(size 2.2 1.5)
+		(drill 1
 			(offset 0.3 0)
 		)
 		(layers "*.Cu" "*.Mask")
@@ -228,8 +228,8 @@
 	)
 	(pad "5" thru_hole oval
 		(at 7.69 -31.55 90)
-		(size 1.905 1.27)
-		(drill 0.7
+		(size 2.2 1.5)
+		(drill 1
 			(offset 0.3 0)
 		)
 		(layers "*.Cu" "*.Mask")
@@ -239,8 +239,8 @@
 	)
 	(pad "6" thru_hole oval
 		(at 7.69 -29.01 270)
-		(size 1.905 1.27)
-		(drill 0.7
+		(size 2.2 1.5)
+		(drill 1
 			(offset 0.3 0)
 		)
 		(layers "*.Cu" "*.Mask")
@@ -250,8 +250,8 @@
 	)
 	(pad "7" thru_hole oval
 		(at 5.15 -31.55 90)
-		(size 1.905 1.27)
-		(drill 0.7
+		(size 2.2 1.5)
+		(drill 1
 			(offset 0.3 0)
 		)
 		(layers "*.Cu" "*.Mask")
@@ -261,8 +261,8 @@
 	)
 	(pad "8" thru_hole oval
 		(at 5.15 -29.01 270)
-		(size 1.905 1.27)
-		(drill 0.7
+		(size 2.2 1.5)
+		(drill 1
 			(offset 0.3 0)
 		)
 		(layers "*.Cu" "*.Mask")
@@ -272,35 +272,46 @@
 	)
 	(pad "9" thru_hole circle
 		(at 16.27 -2.6 90)
-		(size 1.5 1.5)
-		(drill 0.7)
+		(size 2.1 2.1)
+		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "4b3d179e-5174-48bc-9a93-958308ff2a9e")
 	)
 	(pad "10" thru_hole circle
 		(at 13.73 -2.6 90)
-		(size 1.5 1.5)
-		(drill 0.7)
+		(size 2.1 2.1)
+		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "3e33def1-7ba3-43fa-8184-d772231c9001")
 	)
 	(pad "11" thru_hole circle
 		(at 4.27 -2.6 90)
-		(size 1.5 1.5)
-		(drill 0.7)
+		(size 2.1 2.1)
+		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "863ce039-dc21-438a-9f61-6f1530bd2a52")
 	)
 	(pad "12" thru_hole circle
 		(at 1.73 -2.6 90)
-		(size 1.5 1.5)
-		(drill 0.7)
+		(size 2.1 2.1)
+		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "591f2ce9-adc7-4f07-8d8b-98b35a090e27")
 	)
 	(embedded_fonts no)
+	(model "${KICAD_USER_3RD_DIR}/ISI-Modules.3dshapes/Ebyte E01-ML01DP5.stp"
+		(offset
+			(xyz 18 33 2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 90 90)
+		)
+	)
 )
